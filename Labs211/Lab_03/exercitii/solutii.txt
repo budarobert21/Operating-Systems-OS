@@ -1,0 +1,40 @@
+
+Soluții
+-----------------------------------------------------------------------------------------------------
+1. Să se determine numărul total de procese care rulează în acest moment.
+
+	ps -ef | wc -l
+	ps -ef | grep -c '.'
+
+2. Să se determine numărul total de procese care sunt executate în acest moment de către un anumit utilizator.
+
+	ps -ef | grep -c '^root'
+
+3. Să se afișeze lista tuturor proceselor care sunt executate în acest moment de către un anumit utilizator.
+
+	ps -ef | grep '^root' | awk '{print $8}'
+
+4. Să se determine numărul total de fișiere dintr-un director dat.
+
+	ls -l /bin | grep -c '^-'
+	find /bin -type f | wc -l
+
+5. Să se determine numărul total de subdirectoare dintr-un director dat.
+
+	find /etc -type d | wc -l
+
+6. Să se determine numărul total de fișiere executabile dintr-un director dat.
+
+	find /bin -executable | wc -l
+	find /bin -perm /a+x | wc -l
+	
+7. Să se determine numărul de conturi UNICE care s-au conectat la server în data de 08.03.2022.
+
+	last | grep 'Mar  8' | cut -d " " -f 1 | sort | uniq | wc -l
+	last | awk '$5 == "Mar" && $6 == "8" {print $1}' | sort | uniq | wc -l
+
+8. Să se afișeze lista studenților secției Informatică Română care s-au conectat la server în data de 08.03.2022.
+
+	last | grep 'Mar  8' | cut -d " " -f 1 | grep '^[a-z]\{2\}ir' | ...
+	last | awk '/^..ir/ && $5 == "Mar" && $6 == "8" {print $1}' | ...
+	last | awk '$1 ~ /^..ir/ && $5 == "Mar" && $6 == "8" {print $1}' | ...
