@@ -1,0 +1,1770 @@
+/etc/adduser.conf
+/etc/apparmor/parser.conf
+/etc/apport/crashdb.conf
+/etc/apt/apt.conf.d/20apt-esm-hook.conf
+/etc/apt/apt.conf.d/20snapd.conf
+/etc/ca-certificates.conf
+/etc/ca-certificates.conf.dpkg-old
+/etc/dbus-1/system.d/com.ubuntu.SoftwareProperties.conf
+/etc/dbus-1/system.d/org.freedesktop.PackageKit.conf
+/etc/debconf.conf
+/etc/deluser.conf
+/etc/depmod.d/ubuntu.conf
+/etc/dhcp/dhclient.conf
+/etc/e2scrub.conf
+/etc/fonts/conf.avail/10-antialias.conf
+/etc/fonts/conf.avail/10-autohint.conf
+/etc/fonts/conf.avail/10-hinting-full.conf
+/etc/fonts/conf.avail/10-hinting-medium.conf
+/etc/fonts/conf.avail/10-hinting-none.conf
+/etc/fonts/conf.avail/10-hinting-slight.conf
+/etc/fonts/conf.avail/10-no-sub-pixel.conf
+/etc/fonts/conf.avail/10-scale-bitmap-fonts.conf
+/etc/fonts/conf.avail/10-sub-pixel-bgr.conf
+/etc/fonts/conf.avail/10-sub-pixel-rgb.conf
+/etc/fonts/conf.avail/10-sub-pixel-vbgr.conf
+/etc/fonts/conf.avail/10-sub-pixel-vrgb.conf
+/etc/fonts/conf.avail/10-unhinted.conf
+/etc/fonts/conf.avail/11-lcdfilter-default.conf
+/etc/fonts/conf.avail/11-lcdfilter-legacy.conf
+/etc/fonts/conf.avail/11-lcdfilter-light.conf
+/etc/fonts/conf.avail/20-unhint-small-dejavu-lgc-sans-mono.conf
+/etc/fonts/conf.avail/20-unhint-small-dejavu-lgc-sans.conf
+/etc/fonts/conf.avail/20-unhint-small-dejavu-lgc-serif.conf
+/etc/fonts/conf.avail/20-unhint-small-dejavu-sans-mono.conf
+/etc/fonts/conf.avail/20-unhint-small-dejavu-sans.conf
+/etc/fonts/conf.avail/20-unhint-small-dejavu-serif.conf
+/etc/fonts/conf.avail/20-unhint-small-vera.conf
+/etc/fonts/conf.avail/25-unhint-nonlatin.conf
+/etc/fonts/conf.avail/30-metric-aliases.conf
+/etc/fonts/conf.avail/40-nonlatin.conf
+/etc/fonts/conf.avail/45-generic.conf
+/etc/fonts/conf.avail/45-latin.conf
+/etc/fonts/conf.avail/49-sansserif.conf
+/etc/fonts/conf.avail/50-user.conf
+/etc/fonts/conf.avail/51-local.conf
+/etc/fonts/conf.avail/53-monospace-lcd-filter.conf
+/etc/fonts/conf.avail/57-dejavu-sans-mono.conf
+/etc/fonts/conf.avail/57-dejavu-sans.conf
+/etc/fonts/conf.avail/57-dejavu-serif.conf
+/etc/fonts/conf.avail/58-dejavu-lgc-sans-mono.conf
+/etc/fonts/conf.avail/58-dejavu-lgc-sans.conf
+/etc/fonts/conf.avail/58-dejavu-lgc-serif.conf
+/etc/fonts/conf.avail/60-generic.conf
+/etc/fonts/conf.avail/60-latin.conf
+/etc/fonts/conf.avail/65-fonts-persian.conf
+/etc/fonts/conf.avail/65-khmer.conf
+/etc/fonts/conf.avail/65-nonlatin.conf
+/etc/fonts/conf.avail/69-unifont.conf
+/etc/fonts/conf.avail/70-force-bitmaps.conf
+/etc/fonts/conf.avail/70-no-bitmaps.conf
+/etc/fonts/conf.avail/70-yes-bitmaps.conf
+/etc/fonts/conf.avail/80-delicious.conf
+/etc/fonts/conf.avail/90-synthetic.conf
+/etc/fonts/fonts.conf
+/etc/fuse.conf
+/etc/gai.conf
+/etc/hdparm.conf
+/etc/host.conf
+/etc/ld.so.conf
+/etc/ld.so.conf.d/ld.wsl.conf
+/etc/ld.so.conf.d/libc.conf
+/etc/ld.so.conf.d/x86_64-linux-gnu.conf
+/etc/ld.so.conf.d/zz_i386-biarch-compat.conf
+/etc/ldap/ldap.conf
+/etc/libaudit.conf
+/etc/logrotate.conf
+/etc/manpath.config
+/etc/mke2fs.conf
+/etc/modprobe.d/blacklist-ath_pci.conf
+/etc/modprobe.d/blacklist-firewire.conf
+/etc/modprobe.d/blacklist-framebuffer.conf
+/etc/modprobe.d/blacklist-rare-network.conf
+/etc/modprobe.d/blacklist.conf
+/etc/modprobe.d/iwlwifi.conf
+/etc/nftables.conf
+/etc/nsswitch.conf
+/etc/PackageKit/PackageKit.conf
+/etc/PackageKit/Vendor.conf
+/etc/pam.conf
+/etc/polkit-1/localauthority.conf.d/50-localauthority.conf
+/etc/polkit-1/localauthority.conf.d/51-ubuntu-admin.conf
+/etc/rsyslog.conf
+/etc/rsyslog.d/20-ufw.conf
+/etc/rsyslog.d/50-default.conf
+/etc/security/access.conf
+/etc/security/capability.conf
+/etc/security/faillock.conf
+/etc/security/group.conf
+/etc/security/limits.conf
+/etc/security/namespace.conf
+/etc/security/pam_env.conf
+/etc/security/sepermit.conf
+/etc/security/time.conf
+/etc/selinux/semanage.conf
+/etc/sudo.conf
+/etc/sudo_logsrvd.conf
+/etc/sysctl.conf
+/etc/sysctl.d/10-console-messages.conf
+/etc/sysctl.d/10-ipv6-privacy.conf
+/etc/sysctl.d/10-kernel-hardening.conf
+/etc/sysctl.d/10-magic-sysrq.conf
+/etc/sysctl.d/10-network-security.conf
+/etc/sysctl.d/10-ptrace.conf
+/etc/sysctl.d/10-zeropage.conf
+/etc/systemd/journald.conf
+/etc/systemd/logind.conf
+/etc/systemd/networkd.conf
+/etc/systemd/pstore.conf
+/etc/systemd/resolved.conf
+/etc/systemd/sleep.conf
+/etc/systemd/system/systemd-sysusers.service.d/override.conf
+/etc/systemd/system.conf
+/etc/systemd/timesyncd.conf
+/etc/systemd/user.conf
+/etc/tmpfiles.d/screen-cleanup.conf
+/etc/ubuntu-advantage/uaclient.conf
+/etc/ucf.conf
+/etc/udev/udev.conf
+/etc/ufw/sysctl.conf
+/etc/ufw/ufw.conf
+/etc/xattr.conf
+/etc/xdg/user-dirs.conf
+/mnt/c/$WINDOWS.~BT/Sources/SetupDiag.exe.config
+/mnt/c/Program Files/BlueStacks_nxt/BlueStacksHelper.exe.config
+/mnt/c/Program Files/BlueStacks_nxt/BlueStacksUninstaller.exe.config
+/mnt/c/Program Files/BlueStacks_nxt/HD-ComRegistrar.exe.config
+/mnt/c/Program Files/BlueStacks_nxt/HD-DataManager.exe.config
+/mnt/c/Program Files/BlueStacks_nxt/HD-LogCollector.exe.config
+/mnt/c/Program Files/Git/etc/docx2txt.config
+/mnt/c/Program Files/Git/etc/nsswitch.conf
+/mnt/c/Program Files/Git/etc/pkcs11/pkcs11.conf.example
+/mnt/c/Program Files/Git/mingw64/libexec/git-core/Atlassian.Bitbucket.UI.exe.config
+/mnt/c/Program Files/Git/mingw64/libexec/git-core/git-credential-manager-core.exe.config
+/mnt/c/Program Files/Git/mingw64/libexec/git-core/GitHub.UI.exe.config
+/mnt/c/Program Files/Git/mingw64/share/doc/git-doc/gitweb.conf.html
+/mnt/c/Program Files/NVIDIA Corporation/NVIDIA GeForce Experience/data/configs/messagebus-dep.conf
+/mnt/c/Program Files/NVIDIA Corporation/NVIDIA GeForce Experience/data/configs/messagebus.conf
+/mnt/c/Program Files (x86)/HP/HP Support Framework/Modules/HPDeviceCheck/HPDeviceCheck.exe.config
+/mnt/c/Program Files (x86)/HP/HP Support Framework/Modules/HPDIA.exe.config
+/mnt/c/Program Files (x86)/HP/HP Support Framework/Resources/BingPopup/BingPopup.exe.config
+/mnt/c/Program Files (x86)/HP/HP Support Framework/Resources/HPAudioCheck/HPAudioCheck.exe.config
+/mnt/c/Program Files (x86)/HP/HP Support Framework/Resources/HPNetworkCheck/HPNetworkCheck.exe.config
+/mnt/c/Program Files (x86)/HP/HP Support Framework/Resources/HPNetworkCheck/NCLauncherFromIE.exe.config
+/mnt/c/Program Files (x86)/HP/HP Support Framework/Resources/HPOSCheck/HPOSCheck.exe.config
+/mnt/c/Program Files (x86)/HP/HP Support Framework/Resources/HPPerformanceTuneup/HPPerformanceTuneup.exe.config
+/mnt/c/Program Files (x86)/HP/HP Support Framework/Resources/HPPrinterLowInk/HPPrinterLowInk.exe.config
+/mnt/c/Program Files (x86)/HP/HP Support Framework/Resources/HPPrintSpooler/HPPrintSpooler.exe.config
+/mnt/c/Program Files (x86)/HP/HP Support Framework/Resources/HPUpdate/HPUpdate.exe.config
+/mnt/c/Program Files (x86)/HP/HP Support Framework/Resources/PsDrLauncher.exe.config
+/mnt/c/Program Files (x86)/HP/HP Support Framework/Resources/SolutionFinder/UnifiedIoLauncher.exe.config
+/mnt/c/Program Files (x86)/Microsoft Visual Studio/Installer/Feedback/dump64.exe.config
+/mnt/c/Program Files (x86)/Microsoft Visual Studio/Installer/Feedback/dump64a.exe.config
+/mnt/c/Program Files (x86)/Microsoft Visual Studio/Installer/Feedback/servicehub.config.json
+/mnt/c/Program Files (x86)/Microsoft Visual Studio/Installer/feedback.exe.config
+/mnt/c/Program Files (x86)/Microsoft Visual Studio/Installer/InstallCleanup.exe.config
+/mnt/c/Program Files (x86)/Microsoft Visual Studio/Installer/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/BackgroundDownload.exe.config
+/mnt/c/Program Files (x86)/Microsoft Visual Studio/Installer/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/Microsoft.VisualStudio.Setup.Common.dll.config
+/mnt/c/Program Files (x86)/Microsoft Visual Studio/Installer/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/Microsoft.VisualStudio.Setup.dll.config
+/mnt/c/Program Files (x86)/Microsoft Visual Studio/Installer/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/Microsoft.VisualStudio.Setup.Download.dll.config
+/mnt/c/Program Files (x86)/Microsoft Visual Studio/Installer/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/Microsoft.VisualStudio.Setup.InstallerResources.dll.config
+/mnt/c/Program Files (x86)/Microsoft Visual Studio/Installer/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Program Files (x86)/Microsoft Visual Studio/Installer/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSHiveStub.exe.config
+/mnt/c/Program Files (x86)/Microsoft Visual Studio/Installer/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Program Files (x86)/Microsoft Visual Studio/Installer/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Program Files (x86)/Microsoft Visual Studio/Installer/setup.exe.config
+/mnt/c/Program Files (x86)/Microsoft Visual Studio/Installer/vs_installer.exe.config
+/mnt/c/Program Files (x86)/Microsoft Visual Studio/Installer/vs_installer.windows.exe.config
+/mnt/c/Program Files (x86)/Microsoft Visual Studio/Installer/vs_installershell.exe.config
+/mnt/c/Program Files (x86)/Microsoft Visual Studio/Installer/vs_layout.exe.config
+/mnt/c/Program Files (x86)/PyCharm 2022.2.2/jbr/lib/fonts/font.conf
+/mnt/c/Program Files (x86)/PyCharm 2022.2.2/plugins/python/helpers/py2only/docutils/docutils.conf
+/mnt/c/Program Files (x86)/Reference Assemblies/Microsoft/Framework/.NETFramework/v3.5/Profile/Client/System.configuration.dll
+/mnt/c/Program Files (x86)/Reference Assemblies/Microsoft/Framework/.NETFramework/v4.0/Profile/Client/System.configuration.dll
+/mnt/c/Program Files (x86)/Reference Assemblies/Microsoft/Framework/.NETFramework/v4.0/System.configuration.dll
+/mnt/c/Program Files (x86)/Windows Kits/10/bin/10.0.19041.0/arm64/mt.exe.config
+/mnt/c/Program Files (x86)/Windows Kits/10/bin/10.0.19041.0/x64/mt.exe.config
+/mnt/c/Program Files (x86)/Windows Kits/10/bin/10.0.19041.0/x64/StoreUploader.exe.config
+/mnt/c/Program Files (x86)/Windows Kits/10/bin/10.0.19041.0/x86/mt.exe.config
+/mnt/c/Program Files (x86)/Windows Kits/10/bin/10.0.19041.0/x86/StoreUploader.exe.config
+/mnt/c/Program Files (x86)/Windows Kits/10/Testing/Runtimes/TAEF/TE.ManagedHost.exe.config
+/mnt/c/Program Files (x86)/Windows Kits/10/Testing/Runtimes/TAEF/x64/TE.ManagedHost.exe.config
+/mnt/c/ProgramData/BlueStacks_nxt/bluestacks.conf
+/mnt/c/ProgramData/Microsoft/VisualStudio/SetupWMI/MofCompiler.exe.config
+/mnt/c/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience/data/configs/messagebus-dep.conf
+/mnt/c/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience/data/configs/messagebus.conf
+/mnt/c/SWSetup/SP113404/dchu_2ICLS/conf/iclsProxy.conf
+/mnt/c/SWSetup/SP113562/Application/GFExperience/data/configs/messagebus-dep.conf
+/mnt/c/SWSetup/SP113562/Application/GFExperience/data/configs/messagebus.conf
+/mnt/c/SWSetup/SP113562/Driver/Display.Driver/Display.NvContainer/messagebus_client.conf
+/mnt/c/SWSetup/SP113562/Driver/Display.Driver/Display.NvContainer/plugins/LocalSystem/messagebus.conf
+/mnt/c/SWSetup/SP136865/dchu_1_Graphics/NLog.config
+/mnt/c/SWSetup/SP136865/dchu_1_Graphics/OneApp.IGCC.SDKCommandLine.exe.config
+/mnt/c/SWSetup/SP136865/dchu_1_Graphics/OneApp.IGCC.WinService.exe.config
+/mnt/c/SWSetup/SP140482/InstallHPSA.exe.config
+/mnt/c/Users/Robert Buda/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.30/node_modules/ms-vsintellicode-typescript/node_modules/browserify-zlib/karma.conf.js
+/mnt/c/Users/Robert Buda/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.30/web.webpack.config.js
+/mnt/c/Users/Robert Buda/.vscode/extensions/wholroyd.jinja-0.0.8/jinja.configuration.json
+/mnt/c/Users/Robert Buda/AppData/Local/Google/Chrome/User Data/Default/Extensions/eimadpbcbfnmbkopoojfekhnkhdbieeh/4.9.62_0/config/dark-sites.config
+/mnt/c/Users/Robert Buda/AppData/Local/Google/Chrome/User Data/Default/Extensions/eimadpbcbfnmbkopoojfekhnkhdbieeh/4.9.62_0/config/dynamic-theme-fixes.config
+/mnt/c/Users/Robert Buda/AppData/Local/Google/Chrome/User Data/Default/Extensions/eimadpbcbfnmbkopoojfekhnkhdbieeh/4.9.62_0/config/inversion-fixes.config
+/mnt/c/Users/Robert Buda/AppData/Local/Google/Chrome/User Data/Default/Extensions/eimadpbcbfnmbkopoojfekhnkhdbieeh/4.9.62_0/config/static-themes.config
+/mnt/c/Users/Robert Buda/AppData/Local/JetBrains/PyCharm2022.2/index/indices.config
+/mnt/c/Users/Robert Buda/AppData/Local/Microsoft/fluency/lm/en-US/.config
+/mnt/c/Users/Robert Buda/AppData/Local/Microsoft/Teams/current/resources/meeting-addin/1.0.22349.4/x64/Microsoft.Teams.MeetingAddin.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Microsoft/Teams/current/resources/meeting-addin/1.0.22349.4/x86/Microsoft.Teams.MeetingAddin.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Microsoft/Teams/previous/resources/meeting-addin/1.0.22321.3/x64/Microsoft.Teams.MeetingAddin.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Microsoft/Teams/previous/resources/meeting-addin/1.0.22321.3/x86/Microsoft.Teams.MeetingAddin.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Microsoft/TeamsMeetingAddin/1.0.22349.4/x64/Microsoft.Teams.MeetingAddin.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Microsoft/TeamsMeetingAddin/1.0.22349.4/x86/Microsoft.Teams.MeetingAddin.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Microsoft/VisualStudio/16.0_747f0011/devenv.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Packages/Microsoft.SkypeApp_kzf8qxf38zg5c/LocalCache/Roaming/Microsoft/Skype for Store/CS_skylib/CS_shared.conf
+/mnt/c/Users/Robert Buda/AppData/Local/Packages/Microsoft.SkypeApp_kzf8qxf38zg5c/LocalCache/Roaming/Microsoft/Skype for Store/SkypeRT/persistent.conf
+/mnt/c/Users/Robert Buda/AppData/Local/Packages/Microsoft.SkypeApp_kzf8qxf38zg5c/LocalState/CS_localstate/CS_shared.conf
+/mnt/c/Users/Robert Buda/AppData/Local/Packages/Microsoft.SkypeApp_kzf8qxf38zg5c/LocalState/SkypeRT/persistent.conf
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0fekcjyl.1ot/Feedback/dump64.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0fekcjyl.1ot/feedback.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0fekcjyl.1ot/InstallCleanup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0fekcjyl.1ot/resources/app/ServiceHub/Controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0fekcjyl.1ot/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0fekcjyl.1ot/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.x86.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0fekcjyl.1ot/resources/app/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0fekcjyl.1ot/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0fekcjyl.1ot/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0fekcjyl.1ot/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0fekcjyl.1ot/servicehub.config.json
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0fekcjyl.1ot/setup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0fekcjyl.1ot/vs_installer.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0fekcjyl.1ot/vs_installer.windows.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0fekcjyl.1ot/vs_installershell.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0fekcjyl.1ot/vs_layout.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0ppyixru.2jd/Feedback/dump64.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0ppyixru.2jd/feedback.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0ppyixru.2jd/InstallCleanup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0ppyixru.2jd/resources/app/ServiceHub/Controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0ppyixru.2jd/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0ppyixru.2jd/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.x86.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0ppyixru.2jd/resources/app/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0ppyixru.2jd/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0ppyixru.2jd/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0ppyixru.2jd/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0ppyixru.2jd/servicehub.config.json
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0ppyixru.2jd/setup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0ppyixru.2jd/vs_installer.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0ppyixru.2jd/vs_installer.windows.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0ppyixru.2jd/vs_installershell.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/0ppyixru.2jd/vs_layout.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/1dpgaxtt.smk/Feedback/dump64.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/1dpgaxtt.smk/feedback.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/1dpgaxtt.smk/InstallCleanup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/1dpgaxtt.smk/resources/app/ServiceHub/Controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/1dpgaxtt.smk/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/1dpgaxtt.smk/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.x86.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/1dpgaxtt.smk/resources/app/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/1dpgaxtt.smk/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/1dpgaxtt.smk/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/1dpgaxtt.smk/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/1dpgaxtt.smk/servicehub.config.json
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/1dpgaxtt.smk/setup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/1dpgaxtt.smk/vs_installer.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/1dpgaxtt.smk/vs_installer.windows.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/1dpgaxtt.smk/vs_installershell.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/1dpgaxtt.smk/vs_layout.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/2g2heobu.qmi/Feedback/dump64.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/2g2heobu.qmi/feedback.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/2g2heobu.qmi/InstallCleanup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/2g2heobu.qmi/resources/app/ServiceHub/Controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/2g2heobu.qmi/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/2g2heobu.qmi/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.x86.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/2g2heobu.qmi/resources/app/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/2g2heobu.qmi/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/2g2heobu.qmi/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/2g2heobu.qmi/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/2g2heobu.qmi/servicehub.config.json
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/2g2heobu.qmi/setup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/2g2heobu.qmi/vs_installer.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/2g2heobu.qmi/vs_installer.windows.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/2g2heobu.qmi/vs_installershell.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/2g2heobu.qmi/vs_layout.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/e5o1sd3e.bid/Feedback/dump64.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/e5o1sd3e.bid/feedback.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/e5o1sd3e.bid/InstallCleanup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/e5o1sd3e.bid/resources/app/ServiceHub/Controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/e5o1sd3e.bid/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/e5o1sd3e.bid/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.x86.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/e5o1sd3e.bid/resources/app/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/e5o1sd3e.bid/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/e5o1sd3e.bid/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/e5o1sd3e.bid/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/e5o1sd3e.bid/servicehub.config.json
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/e5o1sd3e.bid/setup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/e5o1sd3e.bid/vs_installer.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/e5o1sd3e.bid/vs_installer.windows.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/e5o1sd3e.bid/vs_installershell.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/e5o1sd3e.bid/vs_layout.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fdugmzxu.fgj/Feedback/dump64.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fdugmzxu.fgj/feedback.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fdugmzxu.fgj/InstallCleanup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fdugmzxu.fgj/resources/app/ServiceHub/Controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fdugmzxu.fgj/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fdugmzxu.fgj/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.x86.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fdugmzxu.fgj/resources/app/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fdugmzxu.fgj/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fdugmzxu.fgj/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fdugmzxu.fgj/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fdugmzxu.fgj/servicehub.config.json
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fdugmzxu.fgj/setup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fdugmzxu.fgj/vs_installer.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fdugmzxu.fgj/vs_installer.windows.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fdugmzxu.fgj/vs_installershell.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fdugmzxu.fgj/vs_layout.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fxcioxht.lc2/Feedback/dump64.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fxcioxht.lc2/feedback.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fxcioxht.lc2/InstallCleanup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fxcioxht.lc2/resources/app/ServiceHub/Controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fxcioxht.lc2/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fxcioxht.lc2/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.x86.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fxcioxht.lc2/resources/app/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fxcioxht.lc2/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fxcioxht.lc2/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fxcioxht.lc2/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fxcioxht.lc2/servicehub.config.json
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fxcioxht.lc2/setup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fxcioxht.lc2/vs_installer.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fxcioxht.lc2/vs_installer.windows.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fxcioxht.lc2/vs_installershell.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/fxcioxht.lc2/vs_layout.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/g1uuzgan.wq0/Feedback/dump64.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/g1uuzgan.wq0/feedback.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/g1uuzgan.wq0/InstallCleanup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/g1uuzgan.wq0/resources/app/ServiceHub/Controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/g1uuzgan.wq0/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/g1uuzgan.wq0/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.x86.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/g1uuzgan.wq0/resources/app/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/g1uuzgan.wq0/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/g1uuzgan.wq0/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/g1uuzgan.wq0/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/g1uuzgan.wq0/servicehub.config.json
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/g1uuzgan.wq0/setup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/g1uuzgan.wq0/vs_installer.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/g1uuzgan.wq0/vs_installer.windows.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/g1uuzgan.wq0/vs_installershell.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/g1uuzgan.wq0/vs_layout.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/gqangcog.xde/Feedback/dump64.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/gqangcog.xde/feedback.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/gqangcog.xde/InstallCleanup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/gqangcog.xde/resources/app/ServiceHub/Controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/gqangcog.xde/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/gqangcog.xde/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.x86.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/gqangcog.xde/resources/app/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/gqangcog.xde/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/gqangcog.xde/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/gqangcog.xde/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/gqangcog.xde/servicehub.config.json
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/gqangcog.xde/setup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/gqangcog.xde/vs_installer.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/gqangcog.xde/vs_installer.windows.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/gqangcog.xde/vs_installershell.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/gqangcog.xde/vs_layout.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/i5b253hh.qhp/Feedback/dump64.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/i5b253hh.qhp/feedback.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/i5b253hh.qhp/InstallCleanup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/i5b253hh.qhp/resources/app/ServiceHub/Controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/i5b253hh.qhp/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/i5b253hh.qhp/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.x86.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/i5b253hh.qhp/resources/app/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/i5b253hh.qhp/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/i5b253hh.qhp/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/i5b253hh.qhp/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/i5b253hh.qhp/servicehub.config.json
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/i5b253hh.qhp/setup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/i5b253hh.qhp/vs_installer.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/i5b253hh.qhp/vs_installer.windows.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/i5b253hh.qhp/vs_installershell.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/i5b253hh.qhp/vs_layout.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/idvrrbm3.z2y/Feedback/dump64.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/idvrrbm3.z2y/feedback.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/idvrrbm3.z2y/InstallCleanup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/idvrrbm3.z2y/resources/app/ServiceHub/Controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/idvrrbm3.z2y/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/idvrrbm3.z2y/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.x86.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/idvrrbm3.z2y/resources/app/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/idvrrbm3.z2y/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/idvrrbm3.z2y/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/idvrrbm3.z2y/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/idvrrbm3.z2y/servicehub.config.json
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/idvrrbm3.z2y/setup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/idvrrbm3.z2y/vs_installer.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/idvrrbm3.z2y/vs_installer.windows.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/idvrrbm3.z2y/vs_installershell.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/idvrrbm3.z2y/vs_layout.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ipmkfqji.vfx/Feedback/dump64.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ipmkfqji.vfx/feedback.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ipmkfqji.vfx/InstallCleanup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ipmkfqji.vfx/resources/app/ServiceHub/Controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ipmkfqji.vfx/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ipmkfqji.vfx/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.x86.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ipmkfqji.vfx/resources/app/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ipmkfqji.vfx/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ipmkfqji.vfx/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ipmkfqji.vfx/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ipmkfqji.vfx/servicehub.config.json
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ipmkfqji.vfx/setup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ipmkfqji.vfx/vs_installer.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ipmkfqji.vfx/vs_installer.windows.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ipmkfqji.vfx/vs_installershell.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ipmkfqji.vfx/vs_layout.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/l0x2a34r.4cc/Feedback/dump64.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/l0x2a34r.4cc/feedback.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/l0x2a34r.4cc/InstallCleanup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/l0x2a34r.4cc/resources/app/ServiceHub/Controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/l0x2a34r.4cc/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/l0x2a34r.4cc/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.x86.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/l0x2a34r.4cc/resources/app/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/l0x2a34r.4cc/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/l0x2a34r.4cc/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/l0x2a34r.4cc/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/l0x2a34r.4cc/servicehub.config.json
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/l0x2a34r.4cc/setup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/l0x2a34r.4cc/vs_installer.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/l0x2a34r.4cc/vs_installer.windows.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/l0x2a34r.4cc/vs_installershell.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/l0x2a34r.4cc/vs_layout.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lje1bbmu.a54/Feedback/dump64.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lje1bbmu.a54/feedback.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lje1bbmu.a54/InstallCleanup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lje1bbmu.a54/resources/app/ServiceHub/Controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lje1bbmu.a54/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lje1bbmu.a54/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.x86.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lje1bbmu.a54/resources/app/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lje1bbmu.a54/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lje1bbmu.a54/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lje1bbmu.a54/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lje1bbmu.a54/servicehub.config.json
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lje1bbmu.a54/setup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lje1bbmu.a54/vs_installer.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lje1bbmu.a54/vs_installer.windows.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lje1bbmu.a54/vs_installershell.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lje1bbmu.a54/vs_layout.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lyfnoir2.1s1/Feedback/dump64.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lyfnoir2.1s1/feedback.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lyfnoir2.1s1/InstallCleanup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lyfnoir2.1s1/resources/app/ServiceHub/Controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lyfnoir2.1s1/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lyfnoir2.1s1/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.x86.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lyfnoir2.1s1/resources/app/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lyfnoir2.1s1/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lyfnoir2.1s1/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lyfnoir2.1s1/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lyfnoir2.1s1/servicehub.config.json
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lyfnoir2.1s1/setup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lyfnoir2.1s1/vs_installer.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lyfnoir2.1s1/vs_installer.windows.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lyfnoir2.1s1/vs_installershell.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/lyfnoir2.1s1/vs_layout.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n243grci.u12/Feedback/dump64.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n243grci.u12/feedback.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n243grci.u12/InstallCleanup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n243grci.u12/resources/app/ServiceHub/Controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n243grci.u12/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n243grci.u12/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.x86.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n243grci.u12/resources/app/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n243grci.u12/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n243grci.u12/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n243grci.u12/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n243grci.u12/servicehub.config.json
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n243grci.u12/setup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n243grci.u12/vs_installer.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n243grci.u12/vs_installer.windows.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n243grci.u12/vs_installershell.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n243grci.u12/vs_layout.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n5exxach.2oi/Feedback/dump64.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n5exxach.2oi/feedback.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n5exxach.2oi/InstallCleanup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n5exxach.2oi/resources/app/ServiceHub/Controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n5exxach.2oi/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n5exxach.2oi/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.x86.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n5exxach.2oi/resources/app/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n5exxach.2oi/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n5exxach.2oi/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n5exxach.2oi/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n5exxach.2oi/servicehub.config.json
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n5exxach.2oi/setup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n5exxach.2oi/vs_installer.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n5exxach.2oi/vs_installer.windows.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n5exxach.2oi/vs_installershell.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/n5exxach.2oi/vs_layout.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/nhpihfj4.fbg/Feedback/dump64.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/nhpihfj4.fbg/feedback.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/nhpihfj4.fbg/InstallCleanup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/nhpihfj4.fbg/resources/app/ServiceHub/Controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/nhpihfj4.fbg/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/nhpihfj4.fbg/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.x86.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/nhpihfj4.fbg/resources/app/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/nhpihfj4.fbg/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/nhpihfj4.fbg/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/nhpihfj4.fbg/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/nhpihfj4.fbg/servicehub.config.json
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/nhpihfj4.fbg/setup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/nhpihfj4.fbg/vs_installer.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/nhpihfj4.fbg/vs_installer.windows.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/nhpihfj4.fbg/vs_installershell.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/nhpihfj4.fbg/vs_layout.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/oau2qfyr.xk4/Feedback/dump64.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/oau2qfyr.xk4/feedback.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/oau2qfyr.xk4/InstallCleanup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/oau2qfyr.xk4/resources/app/ServiceHub/Controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/oau2qfyr.xk4/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/oau2qfyr.xk4/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.x86.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/oau2qfyr.xk4/resources/app/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/oau2qfyr.xk4/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/oau2qfyr.xk4/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/oau2qfyr.xk4/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/oau2qfyr.xk4/servicehub.config.json
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/oau2qfyr.xk4/setup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/oau2qfyr.xk4/vs_installer.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/oau2qfyr.xk4/vs_installer.windows.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/oau2qfyr.xk4/vs_installershell.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/oau2qfyr.xk4/vs_layout.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/qtwi1npb.3as/Feedback/dump64.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/qtwi1npb.3as/feedback.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/qtwi1npb.3as/InstallCleanup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/qtwi1npb.3as/resources/app/ServiceHub/Controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/qtwi1npb.3as/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/qtwi1npb.3as/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.x86.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/qtwi1npb.3as/resources/app/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/qtwi1npb.3as/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/qtwi1npb.3as/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/qtwi1npb.3as/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/qtwi1npb.3as/servicehub.config.json
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/qtwi1npb.3as/setup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/qtwi1npb.3as/vs_installer.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/qtwi1npb.3as/vs_installer.windows.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/qtwi1npb.3as/vs_installershell.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/qtwi1npb.3as/vs_layout.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/sk1nftbi.muq/Feedback/dump64.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/sk1nftbi.muq/feedback.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/sk1nftbi.muq/InstallCleanup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/sk1nftbi.muq/resources/app/ServiceHub/Controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/sk1nftbi.muq/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/sk1nftbi.muq/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.x86.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/sk1nftbi.muq/resources/app/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/sk1nftbi.muq/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/sk1nftbi.muq/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/sk1nftbi.muq/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/sk1nftbi.muq/servicehub.config.json
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/sk1nftbi.muq/setup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/sk1nftbi.muq/vs_installer.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/sk1nftbi.muq/vs_installer.windows.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/sk1nftbi.muq/vs_installershell.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/sk1nftbi.muq/vs_layout.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/slcmfizr.01x/Feedback/dump64.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/slcmfizr.01x/feedback.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/slcmfizr.01x/InstallCleanup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/slcmfizr.01x/resources/app/ServiceHub/Controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/slcmfizr.01x/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/slcmfizr.01x/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.x86.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/slcmfizr.01x/resources/app/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/slcmfizr.01x/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/slcmfizr.01x/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/slcmfizr.01x/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/slcmfizr.01x/servicehub.config.json
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/slcmfizr.01x/setup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/slcmfizr.01x/vs_installer.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/slcmfizr.01x/vs_installer.windows.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/slcmfizr.01x/vs_installershell.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/slcmfizr.01x/vs_layout.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ty03k52j.mbc/Feedback/dump64.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ty03k52j.mbc/feedback.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ty03k52j.mbc/InstallCleanup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ty03k52j.mbc/resources/app/ServiceHub/Controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ty03k52j.mbc/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ty03k52j.mbc/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.x86.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ty03k52j.mbc/resources/app/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ty03k52j.mbc/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ty03k52j.mbc/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ty03k52j.mbc/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ty03k52j.mbc/servicehub.config.json
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ty03k52j.mbc/setup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ty03k52j.mbc/vs_installer.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ty03k52j.mbc/vs_installer.windows.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ty03k52j.mbc/vs_installershell.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/ty03k52j.mbc/vs_layout.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/vblvowqh.lgk/Feedback/dump64.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/vblvowqh.lgk/feedback.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/vblvowqh.lgk/InstallCleanup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/vblvowqh.lgk/resources/app/ServiceHub/Controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/vblvowqh.lgk/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/vblvowqh.lgk/resources/app/ServiceHub/Hosts/Microsoft.ServiceHub.Host.CLR/vs_installerservice.x86.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/vblvowqh.lgk/resources/app/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/vblvowqh.lgk/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/nuget.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/vblvowqh.lgk/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXAutoUpdate.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/vblvowqh.lgk/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/VSIXInstaller.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/vblvowqh.lgk/servicehub.config.json
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/vblvowqh.lgk/setup.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/vblvowqh.lgk/vs_installer.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/vblvowqh.lgk/vs_installer.windows.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/vblvowqh.lgk/vs_installershell.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Temp/vblvowqh.lgk/vs_layout.exe.config
+/mnt/c/Users/Robert Buda/AppData/Local/Voice.ai/VoiceAI.exe_Url_ns5neyxokco2nqz0rhvysskm5n2bptx4/0.1.23.0/user.config
+/mnt/c/Users/Robert Buda/AppData/Roaming/Battle.net/Battle.net.config
+/mnt/c/Users/Robert Buda/AppData/Roaming/Battle.net/ec370f37.config
+/mnt/c/Users/Robert Buda/AppData/Roaming/Kodi/userdata/addon_data/plugin.video.elementum/libtorrent.config
+/mnt/c/Users/Robert Buda/AppData/Roaming/Microsoft/Teams/CS_skylib/CS_8#3Aorgid#3A3b20213d-66a4-4e36-bd9b-8f4d84a7f0c7.conf
+/mnt/c/Users/Robert Buda/AppData/Roaming/Microsoft/Teams/CS_skylib/CS_orgid#3A3b20213d-66a4-4e36-bd9b-8f4d84a7f0c7.conf
+/mnt/c/Users/Robert Buda/AppData/Roaming/Microsoft/Teams/CS_skylib/CS_shared.conf
+/mnt/c/Users/Robert Buda/AppData/Roaming/Microsoft/Teams/SkypeRT/ecs.conf
+/mnt/c/Users/Robert Buda/AppData/Roaming/Microsoft/Teams/SkypeRT/persistent.conf
+/mnt/c/Users/Robert Buda/AppData/Roaming/Microsoft/Teams/SkypeRT/ul.conf
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Metode avansate de Programare/Teme/familydoctor/saptamana 1-7/CSharp/FamilyDoctor/FamilyDoctor/App.config
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Metode avansate de Programare/Teme/familydoctor/saptamana 1-7/CSharp/FamilyDoctor/FamilyDoctor/bin/Debug/FamilyDoctor.exe.config
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Metode avansate de Programare/Teme/familydoctor/saptamana 1-7/CSharp/FamilyDoctor/FamilyDoctor/bin/Debug/FamilyDoctor.vshost.exe.config
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Metode avansate de Programare/Teme/familydoctor/Saptamana 8-14/tcp client-server/familydoctor/packages/Microsoft.AspNet.Mvc.5.2.3/Content/Web.config.install.xdt
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Metode avansate de Programare/Teme/familydoctor/Saptamana 8-14/tcp client-server/familydoctor/packages/Microsoft.AspNet.Mvc.5.2.3/Content/Web.config.uninstall.xdt
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Metode avansate de Programare/Teme/familydoctor/Saptamana 8-14/tcp client-server/familydoctor/packages/Microsoft.AspNet.WebPages.3.2.3/Content/Web.config.install.xdt
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Metode avansate de Programare/Teme/familydoctor/Saptamana 8-14/tcp client-server/familydoctor/packages/Microsoft.AspNet.WebPages.3.2.3/Content/Web.config.uninstall.xdt
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Metode avansate de Programare/Teme/familydoctor/Saptamana 8-14/tcp client-server/familydoctor/packages/repositories.config
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Metode avansate de Programare/Teme/familydoctor/Saptamana 8-14/Web/familydoctor/FamilyDoctorServer/packages.config
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Metode avansate de Programare/Teme/familydoctor/Saptamana 8-14/Web/familydoctor/FamilyDoctorServer/Views/Web.config
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Metode avansate de Programare/Teme/familydoctor/Saptamana 8-14/Web/familydoctor/FamilyDoctorServer/Web.config
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Metode avansate de Programare/Teme/familydoctor/Saptamana 8-14/Web/familydoctor/packages/Microsoft.AspNet.Mvc.5.2.0/Content/Web.config.install.xdt
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Metode avansate de Programare/Teme/familydoctor/Saptamana 8-14/Web/familydoctor/packages/Microsoft.AspNet.Mvc.5.2.0/Content/Web.config.uninstall.xdt
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Metode avansate de Programare/Teme/familydoctor/Saptamana 8-14/Web/familydoctor/packages/Microsoft.AspNet.Mvc.5.2.3/Content/Web.config.install.xdt
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Metode avansate de Programare/Teme/familydoctor/Saptamana 8-14/Web/familydoctor/packages/Microsoft.AspNet.Mvc.5.2.3/Content/Web.config.uninstall.xdt
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Metode avansate de Programare/Teme/familydoctor/Saptamana 8-14/Web/familydoctor/packages/Microsoft.AspNet.WebPages.3.2.0/Content/Web.config.install.xdt
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Metode avansate de Programare/Teme/familydoctor/Saptamana 8-14/Web/familydoctor/packages/Microsoft.AspNet.WebPages.3.2.0/Content/Web.config.uninstall.xdt
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Metode avansate de Programare/Teme/familydoctor/Saptamana 8-14/Web/familydoctor/packages/Microsoft.AspNet.WebPages.3.2.3/Content/Web.config.install.xdt
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Metode avansate de Programare/Teme/familydoctor/Saptamana 8-14/Web/familydoctor/packages/Microsoft.AspNet.WebPages.3.2.3/Content/Web.config.uninstall.xdt
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Metode avansate de Programare/Teme/familydoctor/Saptamana 8-14/Web/familydoctor/packages/repositories.config
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Programare orientata pe obiect/varianta examen/examfp/.metadata/.plugins/com.python.pydev.analysis/python_v1_258tvcdekrk5tmtf5h0ez044z/v1_indexcache/distutils.command.config_24ve.v1_indexcache
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Programare orientata pe obiect/varianta examen/examfp/.metadata/.plugins/com.python.pydev.analysis/python_v1_258tvcdekrk5tmtf5h0ez044z/v1_indexcache/distutils.config_aibs.v1_indexcache
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Programare orientata pe obiect/varianta examen/examfp/.metadata/.plugins/com.python.pydev.analysis/python_v1_258tvcdekrk5tmtf5h0ez044z/v1_indexcache/idlelib.configDialog_cu4q.v1_indexcache
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Programare orientata pe obiect/varianta examen/examfp/.metadata/.plugins/com.python.pydev.analysis/python_v1_258tvcdekrk5tmtf5h0ez044z/v1_indexcache/idlelib.configHandler_391w.v1_indexcache
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Programare orientata pe obiect/varianta examen/examfp/.metadata/.plugins/com.python.pydev.analysis/python_v1_258tvcdekrk5tmtf5h0ez044z/v1_indexcache/idlelib.configHelpSourceEdit_5nku.v1_indexcache
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Programare orientata pe obiect/varianta examen/examfp/.metadata/.plugins/com.python.pydev.analysis/python_v1_258tvcdekrk5tmtf5h0ez044z/v1_indexcache/idlelib.configSectionNameDialog_f439.v1_indexcache
+/mnt/c/Users/Robert Buda/Desktop/ANALIZA SI ALGEBRA/babes-info-romana-master/Programare orientata pe obiect/varianta examen/examfp/.metadata/.plugins/com.python.pydev.analysis/python_v1_258tvcdekrk5tmtf5h0ez044z/v1_indexcache/logging.config_v3s6.v1_indexcache
+/mnt/c/Users/Robert Buda/Desktop/SEGA.Genesis.Classics/Sega Classics/SEGAGameRoom_Data/boot.config
+/mnt/c/Users/Robert Buda/Desktop/SEGA.Genesis.Classics/Sega Classics/SEGAGameRoom_Data/Mono/etc/mono/1.0/machine.config
+/mnt/c/Users/Robert Buda/Desktop/SEGA.Genesis.Classics/Sega Classics/SEGAGameRoom_Data/Mono/etc/mono/2.0/machine.config
+/mnt/c/Users/Robert Buda/Desktop/SEGA.Genesis.Classics/Sega Classics/SEGAGameRoom_Data/Mono/etc/mono/2.0/web.config
+/mnt/c/Windows/assembly/GAC_32/MSBuild/3.5.0.0__b03f5f7f11d50a3a/msbuild.exe.config
+/mnt/c/Windows/assembly/GAC_32/PresentationCore/3.0.0.0__31bf3856ad364e35/PresentationFontCache.exe.config
+/mnt/c/Windows/assembly/GAC_64/MSBuild/3.5.0.0__b03f5f7f11d50a3a/msbuild.exe.config
+/mnt/c/Windows/assembly/GAC_64/PresentationCore/3.0.0.0__31bf3856ad364e35/PresentationFontCache.exe.config
+/mnt/c/Windows/assembly/GAC_MSIL/System.Configuration/2.0.0.0__b03f5f7f11d50a3a/System.configuration.dll
+/mnt/c/Windows/Globalization/ELS/SpellDictionaries/Fluency/en-US/.config
+/mnt/c/Windows/Globalization/ELS/SpellDictionaries/Fluency/ro-RO/.config
+/mnt/c/Windows/Microsoft.NET/assembly/GAC_32/MSBuild/v4.0_4.0.0.0__b03f5f7f11d50a3a/msbuild.exe.config
+/mnt/c/Windows/Microsoft.NET/assembly/GAC_32/Policy.1.0.Microsoft.Interop.Security.AzRoles/v4.0_10.0.19041.1__31bf3856ad364e35/Policy.1.0.Microsoft.Interop.Security.AzRoles.config
+/mnt/c/Windows/Microsoft.NET/assembly/GAC_32/Policy.1.2.Microsoft.Interop.Security.AzRoles/v4.0_10.0.19041.1__31bf3856ad364e35/Policy.1.2.Microsoft.Interop.Security.AzRoles.config
+/mnt/c/Windows/Microsoft.NET/assembly/GAC_64/MSBuild/v4.0_4.0.0.0__b03f5f7f11d50a3a/msbuild.exe.config
+/mnt/c/Windows/Microsoft.NET/assembly/GAC_64/Policy.1.0.Microsoft.Interop.Security.AzRoles/v4.0_10.0.19041.1__31bf3856ad364e35/Policy.1.0.Microsoft.Interop.Security.AzRoles.config
+/mnt/c/Windows/Microsoft.NET/assembly/GAC_64/Policy.1.2.Microsoft.Interop.Security.AzRoles/v4.0_10.0.19041.1__31bf3856ad364e35/Policy.1.2.Microsoft.Interop.Security.AzRoles.config
+/mnt/c/Windows/Microsoft.NET/assembly/GAC_MSIL/dfsvc/v4.0_4.0.0.0__b03f5f7f11d50a3a/dfsvc.exe.config
+/mnt/c/Windows/Microsoft.NET/assembly/GAC_MSIL/Policy.1.0.Microsoft.PowerShell.Commands.Management/v4.0_1.0.0.0__31bf3856ad364e35/Policy.1.0.Microsoft.Powershell.Commands.Management.config
+/mnt/c/Windows/Microsoft.NET/assembly/GAC_MSIL/Policy.1.0.Microsoft.PowerShell.Commands.Utility/v4.0_1.0.0.0__31bf3856ad364e35/Policy.1.0.Microsoft.Powershell.Commands.Utility.config
+/mnt/c/Windows/Microsoft.NET/assembly/GAC_MSIL/Policy.1.0.Microsoft.PowerShell.ConsoleHost/v4.0_1.0.0.0__31bf3856ad364e35/Policy.1.0.Microsoft.Powershell.ConsoleHost.config
+/mnt/c/Windows/Microsoft.NET/assembly/GAC_MSIL/Policy.1.0.Microsoft.PowerShell.Security/v4.0_1.0.0.0__31bf3856ad364e35/Policy.1.0.Microsoft.Powershell.Security.config
+/mnt/c/Windows/Microsoft.NET/assembly/GAC_MSIL/Policy.1.0.System.Management.Automation/v4.0_1.0.0.0__31bf3856ad364e35/Policy.1.0.System.Management.Automation.config
+/mnt/c/Windows/Microsoft.NET/assembly/GAC_MSIL/Policy.3.0.Microsoft.BackgroundIntelligentTransfer.Management/v4.0_10.0.0.0__31bf3856ad364e35/Policy.3.0.Microsoft.BackgroundIntelligentTransfer.Management.config
+/mnt/c/Windows/Microsoft.NET/Framework/sbs_system.configuration.install.dll
+/mnt/c/Windows/Microsoft.NET/Framework/v1.0.3705/installutil.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v1.0.3705/regsvcs.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v1.1.4322/gacutil.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v1.1.4322/regsvcs.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/ASP.NETWebAdminFiles/web.config
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/Aspnet.config
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/Aspnet_regsql.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/caspol.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/CONFIG/machine.config
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/CONFIG/machine.config.comments
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/CONFIG/machine.config.default
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/CONFIG/web.config
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/CONFIG/web.config.comments
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/CONFIG/web.config.default
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/CONFIG/web_hightrust.config
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/CONFIG/web_hightrust.config.default
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/CONFIG/web_lowtrust.config
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/CONFIG/web_lowtrust.config.default
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/CONFIG/web_mediumtrust.config
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/CONFIG/web_mediumtrust.config.default
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/CONFIG/web_minimaltrust.config
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/CONFIG/web_minimaltrust.config.default
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/csc.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/ieexec.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/ilasm.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/jsc.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/msbuild.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/regasm.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/regsvcs.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/System.configuration.dll
+/mnt/c/Windows/Microsoft.NET/Framework/v2.0.50727/vbc.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v3.0/Windows Communication Foundation/SMSvcHost.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v3.0/WPF/PresentationFontCache.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v3.5/AddInProcess.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v3.5/AddInProcess32.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v3.5/AddInUtil.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v3.5/csc.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v3.5/DataSvcUtil.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v3.5/EdmGen.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v3.5/msbuild.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v3.5/vbc.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/AddInProcess.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/AddInProcess32.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/AddInUtil.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/applaunch.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/ASP.NETWebAdminFiles/web.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/Aspnet.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/caspol.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/Config/legacy.web_hightrust.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/Config/legacy.web_hightrust.config.default
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/Config/legacy.web_lowtrust.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/Config/legacy.web_lowtrust.config.default
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/Config/legacy.web_mediumtrust.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/Config/legacy.web_mediumtrust.config.default
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/Config/legacy.web_minimaltrust.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/Config/legacy.web_minimaltrust.config.default
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/Config/machine.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/Config/machine.config.comments
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/Config/machine.config.default
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/Config/web.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/Config/web.config.comments
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/Config/web.config.default
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/Config/web_hightrust.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/Config/web_hightrust.config.default
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/Config/web_lowtrust.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/Config/web_lowtrust.config.default
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/Config/web_mediumtrust.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/Config/web_mediumtrust.config.default
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/Config/web_minimaltrust.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/Config/web_minimaltrust.config.default
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/csc.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/cvtres.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/DataSvcUtil.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/dfsvc.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/ilasm.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/InstallUtil.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/jsc.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/Microsoft.Workflow.Compiler.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/msbuild.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/regasm.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/regsvcs.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/SMSvcHost.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework/v4.0.30319/vbc.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/ASP.NETWebAdminFiles/web.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/Aspnet.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/Aspnet_regsql.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/caspol.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/CONFIG/machine.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/CONFIG/machine.config.comments
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/CONFIG/machine.config.default
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/CONFIG/web.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/CONFIG/web.config.comments
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/CONFIG/web.config.default
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/CONFIG/web_hightrust.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/CONFIG/web_hightrust.config.default
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/CONFIG/web_lowtrust.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/CONFIG/web_lowtrust.config.default
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/CONFIG/web_mediumtrust.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/CONFIG/web_mediumtrust.config.default
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/CONFIG/web_minimaltrust.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/CONFIG/web_minimaltrust.config.default
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/csc.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/ieexec.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/ilasm.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/jsc.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/msbuild.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/regasm.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/regsvcs.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/System.configuration.dll
+/mnt/c/Windows/Microsoft.NET/Framework64/v2.0.50727/vbc.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v3.0/Windows Communication Foundation/SMSvcHost.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v3.0/WPF/PresentationFontCache.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v3.5/AddInProcess.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v3.5/AddInProcess32.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v3.5/AddInUtil.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v3.5/csc.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v3.5/DataSvcUtil.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v3.5/EdmGen.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v3.5/msbuild.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v3.5/vbc.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/AddInProcess.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/AddInProcess32.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/AddInUtil.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/applaunch.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/ASP.NETWebAdminFiles/web.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/Aspnet.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/caspol.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/Config/legacy.web_hightrust.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/Config/legacy.web_hightrust.config.default
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/Config/legacy.web_lowtrust.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/Config/legacy.web_lowtrust.config.default
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/Config/legacy.web_mediumtrust.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/Config/legacy.web_mediumtrust.config.default
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/Config/legacy.web_minimaltrust.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/Config/legacy.web_minimaltrust.config.default
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/Config/machine.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/Config/machine.config.comments
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/Config/machine.config.default
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/Config/web.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/Config/web.config.comments
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/Config/web.config.default
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/Config/web_hightrust.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/Config/web_hightrust.config.default
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/Config/web_lowtrust.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/Config/web_lowtrust.config.default
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/Config/web_mediumtrust.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/Config/web_mediumtrust.config.default
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/Config/web_minimaltrust.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/Config/web_minimaltrust.config.default
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/csc.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/cvtres.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/DataSvcUtil.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/dfsvc.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/ilasm.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/InstallUtil.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/jsc.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/Microsoft.Workflow.Compiler.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/msbuild.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/regasm.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/regsvcs.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/SMSvcHost.exe.config
+/mnt/c/Windows/Microsoft.NET/Framework64/v4.0.30319/vbc.exe.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_zh-tw_6c1990e718cfd51b.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ru-ru_5c0cab29b9a2dc3b.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_it-it_9f965c9f32c8ce19.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_zh-cn_7271fde34fbfbaa6.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_zh-cn_681d53911b5ef8ab.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ja-jp_41bbdbac25e3dff4.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ko-kr_e525b8611854a70a.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ru-ru_51b800d785421a40.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ko-kr_dad10e0ee3f3e50f.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_pt-br_0a331fa7a0f11c38.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ja-jp_37673159f1831df9.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_zh-tw_766e3b394d309716.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_pt-br_1487c9f9d551de33.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_it-it_9541b24cfe680c1e.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_zh-tw_6c1990e718cfd51b/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_zh-tw_6c1990e718cfd51b/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ru-ru_5c0cab29b9a2dc3b/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ru-ru_5c0cab29b9a2dc3b/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ja-jp_37673159f1831df9/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ja-jp_37673159f1831df9/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_zh-cn_681d53911b5ef8ab/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_zh-cn_681d53911b5ef8ab/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ru-ru_51b800d785421a40/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ru-ru_51b800d785421a40/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ja-jp_41bbdbac25e3dff4/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ja-jp_41bbdbac25e3dff4/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_pt-br_1487c9f9d551de33/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_pt-br_1487c9f9d551de33/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ko-kr_dad10e0ee3f3e50f/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ko-kr_dad10e0ee3f3e50f/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_it-it_9541b24cfe680c1e/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_it-it_9541b24cfe680c1e/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_zh-cn_7271fde34fbfbaa6/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_zh-cn_7271fde34fbfbaa6/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_pt-br_0a331fa7a0f11c38/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_pt-br_0a331fa7a0f11c38/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ko-kr_e525b8611854a70a/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ko-kr_e525b8611854a70a/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_zh-tw_766e3b394d309716/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_zh-tw_766e3b394d309716/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_it-it_9f965c9f32c8ce19/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_it-it_9f965c9f32c8ce19/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_en-us_0896e923343d1e99.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_en-us_12eb9375689de094.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_10.0.19041.906_none_ef0e010d1381269b/f/administration.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_10.0.19041.906_none_ef0e010d1381269b/r/administration.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-i..raries-servercommon_31bf3856ad364e35_10.0.19041.1826_none_1e0c7e6525742ff8/f/applicationhost.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-i..raries-servercommon_31bf3856ad364e35_10.0.19041.1826_none_1e0c7e6525742ff8/f/redirection.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-i..raries-servercommon_31bf3856ad364e35_10.0.19041.1826_none_1e0c7e6525742ff8/r/applicationhost.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-i..raries-servercommon_31bf3856ad364e35_10.0.19041.1826_none_1e0c7e6525742ff8/r/redirection.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands_31bf3856ad364e35_10.0.19041.1806_none_21765bd29852ee00/f/microsoft.configci.commands.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands_31bf3856ad364e35_10.0.19041.1806_none_21765bd29852ee00/r/microsoft.configci.commands.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.2364_none_7166d87f9a33e93b/f/microsoft.uev.configwrapper.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.2364_none_7166d87f9a33e93b/r/microsoft.uev.configwrapper.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-a..nagement-appvclient_31bf3856ad364e35_10.0.19041.2364_none_412daa2a7d603816/f/appvstreamingux.exe.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-a..nagement-appvclient_31bf3856ad364e35_10.0.19041.2364_none_412daa2a7d603816/r/appvstreamingux.exe.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-m..ervice-winrt-client_31bf3856ad364e35_10.0.19041.2311_none_cef5dda52286234b/f/windows.management.enrollmentstatustracking.configprovider.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-m..ervice-winrt-client_31bf3856ad364e35_10.0.19041.2311_none_cef5dda52286234b/n/windows.management.moderndeployment.configproviders.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-m..ervice-winrt-client_31bf3856ad364e35_10.0.19041.2311_none_cef5dda52286234b/r/windows.management.enrollmentstatustracking.configprovider.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-m..-management-console_31bf3856ad364e35_10.0.19041.2311_none_8429c1062adfaf23/f/mmc.exe.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-m..-management-console_31bf3856ad364e35_10.0.19041.2311_none_8429c1062adfaf23/r/mmc.exe.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft-windows-m..-management-console_31bf3856ad364e35_10.0.19041.2486_none_8e7a2b8a5f42be95/f/mmc.exe.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft-windows-m..-management-console_31bf3856ad364e35_10.0.19041.2486_none_8e7a2b8a5f42be95/r/mmc.exe.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands_31bf3856ad364e35_10.0.19041.1806_none_2bcb0624ccb3affb/f/microsoft.configci.commands.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands_31bf3856ad364e35_10.0.19041.1806_none_2bcb0624ccb3affb/r/microsoft.configci.commands.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-ppi-config-devicemgmt_31bf3856ad364e35_10.0.19041.2311_none_1a0702956cf2c511/f/microsoft.ppi.config.libraries.aadmgmt.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-ppi-config-devicemgmt_31bf3856ad364e35_10.0.19041.2311_none_1a0702956cf2c511/f/microsoft.ppi.config.libraries.zipfile.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-ppi-config-devicemgmt_31bf3856ad364e35_10.0.19041.2311_none_1a0702956cf2c511/n/microsoft.ppi.config.libraries.ewsclient.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-ppi-config-devicemgmt_31bf3856ad364e35_10.0.19041.2311_none_1a0702956cf2c511/r/microsoft.ppi.config.libraries.aadmgmt.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-ppi-config-devicemgmt_31bf3856ad364e35_10.0.19041.2311_none_1a0702956cf2c511/r/microsoft.ppi.config.libraries.zipfile.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_de-de_69fabd7c79bfd4cf/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_de-de_69fabd7c79bfd4cf/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_es-es_086246073464103e/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_es-es_086246073464103e/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_fr-fr_b56e66585b96e89b/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_fr-fr_b56e66585b96e89b/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_es-es_12b6f05968c4d239/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_es-es_12b6f05968c4d239/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_de-de_5fa6132a455f12d4/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_de-de_5fa6132a455f12d4/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_en-us_12eb9375689de094/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_en-us_12eb9375689de094/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_fr-fr_ab19bc06273626a0/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_fr-fr_ab19bc06273626a0/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_en-us_0896e923343d1e99/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_en-us_0896e923343d1e99/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-ppi-lockdown-configci_31bf3856ad364e35_10.0.19041.423_none_2167feccdeb1c4c7/f/microsoft.ppi.lockdown.configci.exe
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-ppi-lockdown-configci_31bf3856ad364e35_10.0.19041.423_none_2167feccdeb1c4c7/r/microsoft.ppi.lockdown.configci.exe
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/msil_microsoft.web.confi..apphostfileprovider_31bf3856ad364e35_10.0.19041.844_none_c3a02bbfab307832/f/microsoft.web.configuration.apphostfileprovider.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/msil_microsoft.web.confi..apphostfileprovider_31bf3856ad364e35_10.0.19041.844_none_c3a02bbfab307832/r/microsoft.web.configuration.apphostfileprovider.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-powershell-exe_31bf3856ad364e35_10.0.19041.546_none_470f45b46101edfb/f/powershell.exe.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-powershell-exe_31bf3856ad364e35_10.0.19041.546_none_470f45b46101edfb/r/powershell.exe.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft-windows-powershell-exe_31bf3856ad364e35_10.0.19041.546_none_5163f0069562aff6/f/powershell.exe.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft-windows-powershell-exe_31bf3856ad364e35_10.0.19041.546_none_5163f0069562aff6/r/powershell.exe.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/msil_microsoft.web.confi..apphostfileprovider_31bf3856ad364e35_10.0.19041.844_none_c3a02bbfab307832.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_fr-fr_ab19bc06273626a0.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_es-es_086246073464103e.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands_31bf3856ad364e35_10.0.19041.1806_none_2bcb0624ccb3affb.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-f..configuration-tasks_31bf3856ad364e35_10.0.19041.546_none_8de0bf25ee6afb83.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft-windows-s..configurationengine_31bf3856ad364e35_10.0.19041.2130_none_3847bb2f7226bde0.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_de-de_5fa6132a455f12d4.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-s..configurationengine_31bf3856ad364e35_10.0.19041.2130_none_2df310dd3dc5fbe5.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_fr-fr_b56e66585b96e89b.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft.configci.commands_31bf3856ad364e35_10.0.19041.1806_none_21765bd29852ee00.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_es-es_12b6f05968c4d239.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-coresystem-wpr_31bf3856ad364e35_10.0.19041.746_none_4028b8f4f6c0b829/f/wpr.config.xml
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/amd64_microsoft-windows-coresystem-wpr_31bf3856ad364e35_10.0.19041.746_none_4028b8f4f6c0b829/r/wpr.config.xml
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2486.1.5/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_de-de_69fabd7c79bfd4cf.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands_31bf3856ad364e35_10.0.19041.1806_none_2bcb0624ccb3affb.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_es-es_086246073464103e.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_de-de_69fabd7c79bfd4cf.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_en-us_12eb9375689de094.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft-windows-s..configurationengine_31bf3856ad364e35_10.0.19041.2130_none_3847bb2f7226bde0.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_it-it_9541b24cfe680c1e.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-f..configuration-tasks_31bf3856ad364e35_10.0.19041.546_none_8de0bf25ee6afb83.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_en-us_0896e923343d1e99.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-s..configurationengine_31bf3856ad364e35_10.0.19041.2130_none_2df310dd3dc5fbe5.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_es-es_12b6f05968c4d239.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_fr-fr_b56e66585b96e89b.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_fr-fr_ab19bc06273626a0.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_it-it_9f965c9f32c8ce19.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/msil_microsoft.web.confi..apphostfileprovider_31bf3856ad364e35_10.0.19041.844_none_c3a02bbfab307832.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_10.0.19041.906_none_ef0e010d1381269b/f/administration.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_10.0.19041.906_none_ef0e010d1381269b/r/administration.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-i..raries-servercommon_31bf3856ad364e35_10.0.19041.1826_none_1e0c7e6525742ff8/f/applicationhost.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-i..raries-servercommon_31bf3856ad364e35_10.0.19041.1826_none_1e0c7e6525742ff8/f/redirection.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-i..raries-servercommon_31bf3856ad364e35_10.0.19041.1826_none_1e0c7e6525742ff8/r/applicationhost.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-i..raries-servercommon_31bf3856ad364e35_10.0.19041.1826_none_1e0c7e6525742ff8/r/redirection.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands_31bf3856ad364e35_10.0.19041.1806_none_21765bd29852ee00/f/microsoft.configci.commands.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands_31bf3856ad364e35_10.0.19041.1806_none_21765bd29852ee00/r/microsoft.configci.commands.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.2604_none_714066ff9a51a504/f/microsoft.uev.configwrapper.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.2604_none_714066ff9a51a504/r/microsoft.uev.configwrapper.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-a..nagement-appvclient_31bf3856ad364e35_10.0.19041.2364_none_412daa2a7d603816/f/appvstreamingux.exe.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-a..nagement-appvclient_31bf3856ad364e35_10.0.19041.2364_none_412daa2a7d603816/r/appvstreamingux.exe.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-m..-management-console_31bf3856ad364e35_10.0.19041.2604_none_84080ca02af93682/f/mmc.exe.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-m..-management-console_31bf3856ad364e35_10.0.19041.2604_none_84080ca02af93682/r/mmc.exe.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft-windows-m..-management-console_31bf3856ad364e35_10.0.19041.2604_none_8e5cb6f25f59f87d/f/mmc.exe.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft-windows-m..-management-console_31bf3856ad364e35_10.0.19041.2604_none_8e5cb6f25f59f87d/r/mmc.exe.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands_31bf3856ad364e35_10.0.19041.1806_none_2bcb0624ccb3affb/f/microsoft.configci.commands.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands_31bf3856ad364e35_10.0.19041.1806_none_2bcb0624ccb3affb/r/microsoft.configci.commands.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-ppi-config-devicemgmt_31bf3856ad364e35_10.0.19041.2546_none_19f3f1b36d00c91d/f/microsoft.ppi.config.libraries.aadmgmt.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-ppi-config-devicemgmt_31bf3856ad364e35_10.0.19041.2546_none_19f3f1b36d00c91d/f/microsoft.ppi.config.libraries.zipfile.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-ppi-config-devicemgmt_31bf3856ad364e35_10.0.19041.2546_none_19f3f1b36d00c91d/n/microsoft.ppi.config.libraries.ewsclient.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-ppi-config-devicemgmt_31bf3856ad364e35_10.0.19041.2546_none_19f3f1b36d00c91d/r/microsoft.ppi.config.libraries.aadmgmt.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-ppi-config-devicemgmt_31bf3856ad364e35_10.0.19041.2546_none_19f3f1b36d00c91d/r/microsoft.ppi.config.libraries.zipfile.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_it-it_9541b24cfe680c1e/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_it-it_9541b24cfe680c1e/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_fr-fr_ab19bc06273626a0/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_fr-fr_ab19bc06273626a0/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_de-de_5fa6132a455f12d4/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_de-de_5fa6132a455f12d4/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_es-es_086246073464103e/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_es-es_086246073464103e/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_en-us_0896e923343d1e99/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_en-us_0896e923343d1e99/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_fr-fr_b56e66585b96e89b/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_fr-fr_b56e66585b96e89b/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_es-es_12b6f05968c4d239/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_es-es_12b6f05968c4d239/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_de-de_69fabd7c79bfd4cf/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_de-de_69fabd7c79bfd4cf/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_it-it_9f965c9f32c8ce19/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_it-it_9f965c9f32c8ce19/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_en-us_12eb9375689de094/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_en-us_12eb9375689de094/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-ppi-lockdown-configci_31bf3856ad364e35_10.0.19041.423_none_2167feccdeb1c4c7/f/microsoft.ppi.lockdown.configci.exe
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-ppi-lockdown-configci_31bf3856ad364e35_10.0.19041.423_none_2167feccdeb1c4c7/r/microsoft.ppi.lockdown.configci.exe
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/msil_microsoft.web.confi..apphostfileprovider_31bf3856ad364e35_10.0.19041.844_none_c3a02bbfab307832/f/microsoft.web.configuration.apphostfileprovider.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/msil_microsoft.web.confi..apphostfileprovider_31bf3856ad364e35_10.0.19041.844_none_c3a02bbfab307832/r/microsoft.web.configuration.apphostfileprovider.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft-windows-powershell-exe_31bf3856ad364e35_10.0.19041.546_none_5163f0069562aff6/f/powershell.exe.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft-windows-powershell-exe_31bf3856ad364e35_10.0.19041.546_none_5163f0069562aff6/r/powershell.exe.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-powershell-exe_31bf3856ad364e35_10.0.19041.546_none_470f45b46101edfb/f/powershell.exe.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-powershell-exe_31bf3856ad364e35_10.0.19041.546_none_470f45b46101edfb/r/powershell.exe.config
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-coresystem-wpr_31bf3856ad364e35_10.0.19041.746_none_4028b8f4f6c0b829/f/wpr.config.xml
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft-windows-coresystem-wpr_31bf3856ad364e35_10.0.19041.746_none_4028b8f4f6c0b829/r/wpr.config.xml
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_zh-tw_6c1990e718cfd51b.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_pt-br_0a331fa7a0f11c38.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_zh-cn_7271fde34fbfbaa6.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_zh-cn_681d53911b5ef8ab.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ru-ru_5c0cab29b9a2dc3b.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ko-kr_dad10e0ee3f3e50f.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_pt-br_1487c9f9d551de33.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ko-kr_e525b8611854a70a.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ja-jp_41bbdbac25e3dff4.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ru-ru_51b800d785421a40.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ja-jp_37673159f1831df9.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_zh-tw_766e3b394d309716.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ru-ru_5c0cab29b9a2dc3b/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ru-ru_5c0cab29b9a2dc3b/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_zh-cn_7271fde34fbfbaa6/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_zh-cn_7271fde34fbfbaa6/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_zh-tw_6c1990e718cfd51b/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_zh-tw_6c1990e718cfd51b/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ru-ru_51b800d785421a40/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ru-ru_51b800d785421a40/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ko-kr_dad10e0ee3f3e50f/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ko-kr_dad10e0ee3f3e50f/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_zh-cn_681d53911b5ef8ab/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_zh-cn_681d53911b5ef8ab/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_pt-br_0a331fa7a0f11c38/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_pt-br_0a331fa7a0f11c38/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_pt-br_1487c9f9d551de33/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_pt-br_1487c9f9d551de33/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_zh-tw_766e3b394d309716/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_zh-tw_766e3b394d309716/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ja-jp_41bbdbac25e3dff4/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ja-jp_41bbdbac25e3dff4/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ko-kr_e525b8611854a70a/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ko-kr_e525b8611854a70a/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ja-jp_37673159f1831df9/f/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_ja-jp_37673159f1831df9/r/microsoft.configci.commands.resources.dll
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_de-de_5fa6132a455f12d4.manifest
+/mnt/c/Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2604.1.10/amd64_microsoft.configci.commands_31bf3856ad364e35_10.0.19041.1806_none_21765bd29852ee00.manifest
+/mnt/c/Windows/SoftwareDistribution/Download/a56482fde55ff5315caaa91a658da842/Metadata/Windows11.0-KB5022845-x64/amd64_microsoft-windows-f..configuration-tasks_31bf3856ad364e35_10.0.22621.1105_none_8fed324f0b1ab281.manifest
+/mnt/c/Windows/SoftwareDistribution/Download/a56482fde55ff5315caaa91a658da842/Metadata/Windows11.0-KB5022845-x64/amd64_microsoft.configci.commands_31bf3856ad364e35_10.0.22621.755_none_0f06c13aac109210.manifest
+/mnt/c/Windows/SoftwareDistribution/Download/a56482fde55ff5315caaa91a658da842/Package_for_RollupFix~~amd64~~22621.1265.1.5/amd64_microsoft-windows-f..configuration-tasks_31bf3856ad364e35_10.0.22621.1105_none_8fed324f0b1ab281.manifest
+/mnt/c/Windows/SoftwareDistribution/Download/a56482fde55ff5315caaa91a658da842/Package_for_RollupFix~~amd64~~22621.1265.1.5/amd64_microsoft.configci.commands_31bf3856ad364e35_10.0.22621.755_none_0f06c13aac109210.manifest
+/mnt/c/Windows/SoftwareDistribution/Download/a56482fde55ff5315caaa91a658da842/Package_for_RollupFix~~amd64~~22621.1265.1.5/amd64_microsoft-azurestack-hci-billing-service_31bf3856ad364e35_10.0.22621.608_none_12b7774f3a9dd2e6/f/hcisvc.exe.config
+/mnt/c/Windows/SoftwareDistribution/Download/a56482fde55ff5315caaa91a658da842/Package_for_RollupFix~~amd64~~22621.1265.1.5/amd64_microsoft-windows-coresystem-wpr_31bf3856ad364e35_10.0.22621.608_none_c477d46660eb4062/f/wpr.config.xml
+/mnt/c/Windows/SoftwareDistribution/Download/a56482fde55ff5315caaa91a658da842/Package_for_RollupFix~~amd64~~22621.1265.1.5/amd64_microsoft-windows-i..raries-servercommon_31bf3856ad364e35_10.0.22621.608_none_0bd3f1cd39086483/f/applicationhost.config
+/mnt/c/Windows/SoftwareDistribution/Download/a56482fde55ff5315caaa91a658da842/Package_for_RollupFix~~amd64~~22621.1265.1.5/amd64_microsoft-windows-i..raries-servercommon_31bf3856ad364e35_10.0.22621.608_none_0bd3f1cd39086483/f/redirection.config
+/mnt/c/Windows/SoftwareDistribution/Download/a56482fde55ff5315caaa91a658da842/Package_for_RollupFix~~amd64~~22621.1265.1.5/amd64_microsoft-windows-m..ervice-winrt-client_31bf3856ad364e35_10.0.22621.608_none_bc87cded36427fe0/f/windows.management.enrollmentstatustracking.configprovider.dll
+/mnt/c/Windows/SoftwareDistribution/Download/a56482fde55ff5315caaa91a658da842/Package_for_RollupFix~~amd64~~22621.1265.1.5/amd64_microsoft-windows-m..ervice-winrt-client_31bf3856ad364e35_10.0.22621.608_none_bc87cded36427fe0/f/windows.management.moderndeployment.configproviders.dll
+/mnt/c/Windows/SoftwareDistribution/Download/a56482fde55ff5315caaa91a658da842/Package_for_RollupFix~~amd64~~22621.1265.1.5/amd64_microsoft-windows-ppi-config-devicemgmt_31bf3856ad364e35_10.0.22621.608_none_0798f2dd80af21a6/f/microsoft.ppi.config.libraries.aadmgmt.dll
+/mnt/c/Windows/SoftwareDistribution/Download/a56482fde55ff5315caaa91a658da842/Package_for_RollupFix~~amd64~~22621.1265.1.5/amd64_microsoft-windows-ppi-config-devicemgmt_31bf3856ad364e35_10.0.22621.608_none_0798f2dd80af21a6/f/microsoft.ppi.config.libraries.ewsclient.dll
+/mnt/c/Windows/SoftwareDistribution/Download/a56482fde55ff5315caaa91a658da842/Package_for_RollupFix~~amd64~~22621.1265.1.5/amd64_microsoft-windows-ppi-config-devicemgmt_31bf3856ad364e35_10.0.22621.608_none_0798f2dd80af21a6/f/microsoft.ppi.config.libraries.zipfile.dll
+/mnt/c/Windows/SoftwareDistribution/Download/a56482fde55ff5315caaa91a658da842/Package_for_RollupFix~~amd64~~22621.1265.1.5/amd64_microsoft-windows-sms-proxy_31bf3856ad364e35_10.0.22621.608_none_c70c4296b6c022d4/f/microsoft.storagemigration.proxy.service.exe.config
+/mnt/c/Windows/SoftwareDistribution/Download/a56482fde55ff5315caaa91a658da842/Package_for_RollupFix~~amd64~~22621.1265.1.5/amd64_microsoft-windows-a..nagement-appvclient_31bf3856ad364e35_10.0.22621.674_none_2e6b2cbc915d2750/f/appvstreamingux.exe.config
+/mnt/c/Windows/System32/AppV/AppVStreamingUX.exe.config
+/mnt/c/Windows/System32/DiskSnapshot.conf
+/mnt/c/Windows/System32/DriverStore/FileRepository/hpanalyticscomp.inf_amd64_970b3aa928c32e35/x64/TouchpointAnalyticsClient.exe.config
+/mnt/c/Windows/System32/DriverStore/FileRepository/hpanalyticscomp.inf_amd64_970b3aa928c32e35/x64/TouchpointAnalyticsClientService.exe.config
+/mnt/c/Windows/System32/DriverStore/FileRepository/hpanalyticscomp.inf_amd64_f23fc423d26e5d79/x64/TouchpointAnalyticsClient.exe.config
+/mnt/c/Windows/System32/DriverStore/FileRepository/hpanalyticscomp.inf_amd64_f23fc423d26e5d79/x64/TouchpointAnalyticsClientService.exe.config
+/mnt/c/Windows/System32/DriverStore/FileRepository/iclsclient.inf_amd64_183917c66152901d/conf/iclsProxy.conf
+/mnt/c/Windows/System32/DriverStore/FileRepository/iclsclient.inf_amd64_a93205b6238060e4/conf/iclsProxy.conf
+/mnt/c/Windows/System32/DriverStore/FileRepository/igcc_dch.inf_amd64_3d2488852c7b45a0/NLog.config
+/mnt/c/Windows/System32/DriverStore/FileRepository/igcc_dch.inf_amd64_3d2488852c7b45a0/OneApp.IGCC.SDKCommandLine.exe.config
+/mnt/c/Windows/System32/DriverStore/FileRepository/igcc_dch.inf_amd64_3d2488852c7b45a0/OneApp.IGCC.WinService.exe.config
+/mnt/c/Windows/System32/DriverStore/FileRepository/nvhmi.inf_amd64_15073fceaeb9c043/Display.NvContainer/messagebus_client.conf
+/mnt/c/Windows/System32/DriverStore/FileRepository/nvhmi.inf_amd64_15073fceaeb9c043/Display.NvContainer/plugins/LocalSystem/messagebus.conf
+/mnt/c/Windows/System32/mmc.exe.config
+/mnt/c/Windows/System32/UevAppMonitor.exe.config
+/mnt/c/Windows/System32/WindowsPowerShell/v1.0/powershell.exe.config
+/mnt/c/Windows/System32/WindowsPowerShell/v1.0/powershell_ise.exe.config
+/mnt/c/Windows/System32/wpr.config.xml
+/mnt/c/Windows/SysWOW64/mmc.exe.config
+/mnt/c/Windows/SysWOW64/WindowsPowerShell/v1.0/powershell.exe.config
+/mnt/c/Windows/SysWOW64/WindowsPowerShell/v1.0/powershell_ise.exe.config
+/mnt/c/Windows/WinSxS/amd64_addinprocess32_b77a5c561934e089_4.0.15805.0_none_faee98a3c711fae7/AddInProcess32.exe.config
+/mnt/c/Windows/WinSxS/amd64_addinprocess_b77a5c561934e089_4.0.15805.0_none_74baba51266f3010/AddInProcess.exe.config
+/mnt/c/Windows/WinSxS/amd64_addinutil_b77a5c561934e089_4.0.15805.0_none_fcd173bc1b434b81/AddInUtil.exe.config
+/mnt/c/Windows/WinSxS/amd64_caspol_b03f5f7f11d50a3a_4.0.15805.0_none_c6dc1994db088235/caspol.exe.config
+/mnt/c/Windows/WinSxS/amd64_datasvcutil_b77a5c561934e089_4.0.15805.0_none_5b1ada239e3b0505/DataSvcUtil.exe.config
+/mnt/c/Windows/WinSxS/amd64_dfsvc_b03f5f7f11d50a3a_4.0.15805.0_none_c0d2d1227427864f/dfsvc.exe.config
+/mnt/c/Windows/WinSxS/amd64_installutil_b03f5f7f11d50a3a_4.0.15805.0_none_d67d06ef0c4a2e1c/InstallUtil.exe.config
+/mnt/c/Windows/WinSxS/amd64_jsc_b03f5f7f11d50a3a_4.0.15805.0_none_02d98290c2a0aa6b/jsc.exe.config
+/mnt/c/Windows/WinSxS/amd64_microsoft-windows-coresystem-wpr_31bf3856ad364e35_10.0.19041.746_none_4028b8f4f6c0b829/wpr.config.xml
+/mnt/c/Windows/WinSxS/amd64_microsoft-windows-disksnapshot_31bf3856ad364e35_10.0.19041.1081_none_f52da7b1195e2d45/DiskSnapshot.conf
+/mnt/c/Windows/WinSxS/amd64_microsoft-windows-gpowershell-exe_31bf3856ad364e35_10.0.19041.1_none_ee822d264112a470/powershell_ise.exe.config
+/mnt/c/Windows/WinSxS/amd64_microsoft-windows-iis-adminservice_31bf3856ad364e35_10.0.19041.906_none_388c7870566ba06d/wmsvc.exe.config
+/mnt/c/Windows/WinSxS/amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_10.0.19041.906_none_ef0e010d1381269b/administration.config
+/mnt/c/Windows/WinSxS/amd64_microsoft-windows-powershell-exe_31bf3856ad364e35_10.0.19041.546_none_470f45b46101edfb/powershell.exe.config
+/mnt/c/Windows/WinSxS/amd64_microsoft-windows-s..tes-english-fluency_31bf3856ad364e35_10.0.19041.1_none_bee9a2a610bd5f07/.config
+/mnt/c/Windows/WinSxS/amd64_msbuild_b03f5f7f11d50a3a_4.0.15805.0_none_dc3886319c616739/msbuild.exe.config
+/mnt/c/Windows/WinSxS/amd64_multipoint-logcollector_31bf3856ad364e35_10.0.19041.1_none_56138d203a7fc4cf/LogCollector.exe.config
+/mnt/c/Windows/WinSxS/amd64_multipoint-wmsmanager_31bf3856ad364e35_10.0.19041.1_none_d1ffdc3927836528/Logging.config
+/mnt/c/Windows/WinSxS/amd64_multipoint-wmsmanager_31bf3856ad364e35_10.0.19041.1_none_d1ffdc3927836528/system.diagnostics.config
+/mnt/c/Windows/WinSxS/amd64_multipoint-wmsmanager_31bf3856ad364e35_10.0.19041.1_none_d1ffdc3927836528/WmsManager.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx-system.configuration_b03f5f7f11d50a3a_10.0.19200.142_none_7f273a127c099363/System.configuration.dll
+/mnt/c/Windows/WinSxS/amd64_netfx4-applaunch_exe_b03f5f7f11d50a3a_4.0.15805.0_none_a89f46f8bfac0a1e/applaunch.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx4-aspnet_config_b03f5f7f11d50a3a_4.0.15805.0_none_d420656a722da15d/Aspnet.config
+/mnt/c/Windows/WinSxS/amd64_netfx4-aspnet_webadmin_b03f5f7f11d50a3a_4.0.15805.0_none_a7c09bda03ee02b8/web.config
+/mnt/c/Windows/WinSxS/amd64_netfx4-csc_exe_b03f5f7f11d50a3a_4.0.15805.0_none_76eb13d6387f99ed/csc.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx4-cvtres_exe_b03f5f7f11d50a3a_4.0.15805.0_none_51acbceed0728359/cvtres.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx4-ilasm_exe_b03f5f7f11d50a3a_4.0.15805.0_none_5fe2df342921db66/ilasm.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx4-legacy_web_h..rust_config_default_b03f5f7f11d50a3a_4.0.15805.0_none_ff427e668ee8c8dd/legacy.web_hightrust.config.default
+/mnt/c/Windows/WinSxS/amd64_netfx4-legacy_web_hightrust_config_b03f5f7f11d50a3a_4.0.15805.0_none_49a4a0799311c22b/legacy.web_hightrust.config
+/mnt/c/Windows/WinSxS/amd64_netfx4-legacy_web_l..rust_config_default_b03f5f7f11d50a3a_4.0.15805.0_none_fef59eebaa592d81/legacy.web_lowtrust.config.default
+/mnt/c/Windows/WinSxS/amd64_netfx4-legacy_web_lowtrust_config_b03f5f7f11d50a3a_4.0.15805.0_none_d3d92685c2b01b63/legacy.web_lowtrust.config
+/mnt/c/Windows/WinSxS/amd64_netfx4-legacy_web_m..rust_config_default_b03f5f7f11d50a3a_4.0.15805.0_none_24a5f2c10ea71a42/legacy.web_mediumtrust.config.default
+/mnt/c/Windows/WinSxS/amd64_netfx4-legacy_web_m..rust_config_default_b03f5f7f11d50a3a_4.0.15805.0_none_2b86130179f6c6c2/legacy.web_minimaltrust.config.default
+/mnt/c/Windows/WinSxS/amd64_netfx4-legacy_web_mediumtrust_config_b03f5f7f11d50a3a_4.0.15805.0_none_ff0d202bc6457d10/legacy.web_mediumtrust.config
+/mnt/c/Windows/WinSxS/amd64_netfx4-legacy_web_minimaltrust_config_b03f5f7f11d50a3a_4.0.15805.0_none_2653f3fc1ae88524/legacy.web_minimaltrust.config
+/mnt/c/Windows/WinSxS/amd64_netfx4-machine_config_b03f5f7f11d50a3a_4.0.15805.0_none_8415fc268fb7cbd1/machine.config
+/mnt/c/Windows/WinSxS/amd64_netfx4-machine_config_b03f5f7f11d50a3a_4.0.15805.0_none_8415fc268fb7cbd1/machine.config.comments
+/mnt/c/Windows/WinSxS/amd64_netfx4-machine_config_b03f5f7f11d50a3a_4.0.15805.0_none_8415fc268fb7cbd1/machine.config.default
+/mnt/c/Windows/WinSxS/amd64_netfx4-microsoft_wo..compiler_exe_config_b03f5f7f11d50a3a_4.0.15805.0_none_214c1cd1a4ff7253/Microsoft.Workflow.Compiler.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx4-smsvchost_exe_config_b03f5f7f11d50a3a_4.0.15805.0_none_55afc92f57f41c65/SMSvcHost.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx4-vbc_exe_b03f5f7f11d50a3a_4.0.15805.0_none_96edd00e05696409/vbc.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx4-web_config_b03f5f7f11d50a3a_4.0.15805.0_none_cc8c87368388e29a/web.config
+/mnt/c/Windows/WinSxS/amd64_netfx4-web_config_b03f5f7f11d50a3a_4.0.15805.0_none_cc8c87368388e29a/web.config.comments
+/mnt/c/Windows/WinSxS/amd64_netfx4-web_config_b03f5f7f11d50a3a_4.0.15805.0_none_cc8c87368388e29a/web.config.default
+/mnt/c/Windows/WinSxS/amd64_netfx4-web_hightrust_config_b03f5f7f11d50a3a_4.0.15805.0_none_bf40df7b1e70810f/web_hightrust.config
+/mnt/c/Windows/WinSxS/amd64_netfx4-web_hightrust_config_default_b03f5f7f11d50a3a_4.0.15805.0_none_a1aeac48d626310d/web_hightrust.config.default
+/mnt/c/Windows/WinSxS/amd64_netfx4-web_lowtrust_config_b03f5f7f11d50a3a_4.0.15805.0_none_25a7378719e6a9fb/web_lowtrust.config
+/mnt/c/Windows/WinSxS/amd64_netfx4-web_lowtrust_config_default_b03f5f7f11d50a3a_4.0.15805.0_none_1d15445a1226c8ad/web_lowtrust.config.default
+/mnt/c/Windows/WinSxS/amd64_netfx4-web_mediumtrust_config_b03f5f7f11d50a3a_4.0.15805.0_none_c891866dcb5daed0/web_mediumtrust.config
+/mnt/c/Windows/WinSxS/amd64_netfx4-web_mediumtrust_config_default_b03f5f7f11d50a3a_4.0.15805.0_none_491b1e93c519da6e/web_mediumtrust.config.default
+/mnt/c/Windows/WinSxS/amd64_netfx4-web_minimaltrust_config_b03f5f7f11d50a3a_4.0.15805.0_none_e25e33da28ad946a/web_minimaltrust.config
+/mnt/c/Windows/WinSxS/amd64_netfx4-web_minimaltrust_config_default_b03f5f7f11d50a3a_4.0.15805.0_none_b77b8ade8ec16b9c/web_minimaltrust.config.default
+/mnt/c/Windows/WinSxS/amd64_policy.1.0.microsof..op.security.azroles_31bf3856ad364e35_10.0.19041.1_none_5375bce406225bf4/Policy.1.0.Microsoft.Interop.Security.AzRoles.config
+/mnt/c/Windows/WinSxS/amd64_policy.1.2.microsof..op.security.azroles_31bf3856ad364e35_10.0.19041.1_none_a2ab10cbcabe4fd6/Policy.1.2.Microsoft.Interop.Security.AzRoles.config
+/mnt/c/Windows/WinSxS/amd64_presentationcore_31bf3856ad364e35_10.0.19200.250_none_d7b20b14583ffbf2/PresentationFontCache.exe.config
+/mnt/c/Windows/WinSxS/amd64_regasm_b03f5f7f11d50a3a_4.0.15805.0_none_7219923700ae18c0/regasm.exe.config
+/mnt/c/Windows/WinSxS/amd64_regsvcs_b03f5f7f11d50a3a_4.0.15805.0_none_4534bcdd53211170/regsvcs.exe.config
+/mnt/c/Windows/WinSxS/amd64_wcf-m_smsvchost_exe_cnf_31bf3856ad364e35_10.0.19041.1_none_aaa50b80b86b6e76/SMSvcHost.exe.config
+/mnt/c/Windows/WinSxS/Backup/amd64_microsoft-windows-s..configurationengine_31bf3856ad364e35_10.0.19041.2130_none_2df310dd3dc5fbe5.manifest
+/mnt/c/Windows/WinSxS/Backup/amd64_microsoft-windows-s..configurationengine_31bf3856ad364e35_10.0.19041.2130_none_2df310dd3dc5fbe5_scesrv.dll_07b1e224
+/mnt/c/Windows/WinSxS/Backup/wow64_microsoft-windows-s..configurationengine_31bf3856ad364e35_10.0.19041.2130_none_3847bb2f7226bde0.manifest
+/mnt/c/Windows/WinSxS/Backup/wow64_microsoft-windows-s..configurationengine_31bf3856ad364e35_10.0.19041.2130_none_3847bb2f7226bde0_scesrv.dll_07b1e224
+/mnt/c/Windows/WinSxS/FileMaps/$$_microsoft.net_assembly_gac_msil_system.configuration.install_v4.0_4.0.0.0_b03f5f7f11d50a3a_bcd5e639a43e4f28.cdf-ms
+/mnt/c/Windows/WinSxS/FileMaps/$$_microsoft.net_assembly_gac_msil_system.configuration_v4.0_4.0.0.0_b03f5f7f11d50a3a_d8a1d11d04cdf6db.cdf-ms
+/mnt/c/Windows/WinSxS/Manifests/amd64_microsoft-windows-f..configuration-tasks_31bf3856ad364e35_10.0.19041.546_none_8de0bf25ee6afb83.manifest
+/mnt/c/Windows/WinSxS/Manifests/amd64_microsoft-windows-m..confg-rll.resources_31bf3856ad364e35_10.0.19041.1_en-us_bad9de852b9be8ea.manifest
+/mnt/c/Windows/WinSxS/Manifests/amd64_microsoft.web.confi..fileprovider-comreg_31bf3856ad364e35_10.0.19041.1_none_c21c7e467a320720.manifest
+/mnt/c/Windows/WinSxS/Manifests/amd64_netfx-system.configuration_b03f5f7f11d50a3a_10.0.19200.142_none_7f273a127c099363.manifest
+/mnt/c/Windows/WinSxS/Manifests/amd64_system.configuration.install.resources_b03f5f7f11d50a3a_4.0.15805.0_en-us_9523cf3e15869094.manifest
+/mnt/c/Windows/WinSxS/Manifests/amd64_system.configuration.install_b03f5f7f11d50a3a_4.0.15805.0_none_e6c6e17b63cf7829.manifest
+/mnt/c/Windows/WinSxS/Manifests/amd64_system.configuration.resources_b03f5f7f11d50a3a_4.0.15805.0_en-us_b3df16a11294bf0b.manifest
+/mnt/c/Windows/WinSxS/Manifests/amd64_system.configuration_b03f5f7f11d50a3a_4.0.15805.0_none_8629f55621e4c4ce.manifest
+/mnt/c/Windows/WinSxS/Manifests/amd64_system.configuration_b03f5f7f11d50a3a_4.0.15805.142_none_7df7c0f1dce97a13.manifest
+/mnt/c/Windows/WinSxS/Manifests/msil_microsoft.web.confi..apphostfileprovider_31bf3856ad364e35_10.0.19041.844_none_c3a02bbfab307832.manifest
+/mnt/c/Windows/WinSxS/Manifests/msil_microsoft.web.confi..eprovider.resources_31bf3856ad364e35_10.0.19041.1_en-us_22a3644163026db8.manifest
+/mnt/c/Windows/WinSxS/Manifests/msil_system.configuration.install.resources_b03f5f7f11d50a3a_10.0.19041.1_en-us_fb06e25bbb5d8527.manifest
+/mnt/c/Windows/WinSxS/Manifests/msil_system.configuration.resources_b03f5f7f11d50a3a_10.0.19041.1_en-us_19c229beb86bb39e.manifest
+/mnt/c/Windows/WinSxS/Manifests/msil_system.configuration_b03f5f7f11d50a3a_10.0.19200.142_none_496e14d7a6bece18.manifest
+/mnt/c/Windows/WinSxS/Manifests/wow64_microsoft.web.confi..fileprovider-comreg_31bf3856ad364e35_10.0.19041.1_none_cc712898ae92c91b.manifest
+/mnt/c/Windows/WinSxS/Manifests/amd64_microsoft-windows-s..configurationengine_31bf3856ad364e35_10.0.19041.2130_none_2df310dd3dc5fbe5.manifest
+/mnt/c/Windows/WinSxS/Manifests/msil_system.configuration_b03f5f7f11d50a3a_10.0.19041.1_none_ec0d0873c7bbb961.manifest
+/mnt/c/Windows/WinSxS/Manifests/amd64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_en-us_0896e923343d1e99.manifest
+/mnt/c/Windows/WinSxS/Manifests/wow64_microsoft.configci.commands_31bf3856ad364e35_10.0.19041.1806_none_2bcb0624ccb3affb.manifest
+/mnt/c/Windows/WinSxS/Manifests/amd64_microsoft.configci.commands_31bf3856ad364e35_10.0.19041.1806_none_21765bd29852ee00.manifest
+/mnt/c/Windows/WinSxS/Manifests/wow64_microsoft-windows-s..configurationengine_31bf3856ad364e35_10.0.19041.2130_none_3847bb2f7226bde0.manifest
+/mnt/c/Windows/WinSxS/Manifests/amd64_netfx-system.configuration.install_b03f5f7f11d50a3a_10.0.19041.1_none_e76884dfd0faa7b7.manifest
+/mnt/c/Windows/WinSxS/Manifests/msil_system.configuration.install_b03f5f7f11d50a3a_10.0.19041.1_none_4ca9f49909a66cbc.manifest
+/mnt/c/Windows/WinSxS/Manifests/amd64_netfx-system.configuration_b03f5f7f11d50a3a_10.0.19041.1_none_21c62dae9d067eac.manifest
+/mnt/c/Windows/WinSxS/Manifests/wow64_microsoft.configci.commands.resources_31bf3856ad364e35_10.0.19041.1503_en-us_12eb9375689de094.manifest
+/mnt/c/Windows/WinSxS/msil_c2wtshost_31bf3856ad364e35_10.0.19041.1_none_746453fd22521ba2/c2wtshost.exe.config
+/mnt/c/Windows/WinSxS/msil_multipoint-wmsadminuilibrary_31bf3856ad364e35_10.0.19041.1_none_5c4b8890e8b84114/WmsAddins.config
+/mnt/c/Windows/WinSxS/msil_multipoint-wmsdashboard_31bf3856ad364e35_10.0.19041.1_none_061d84508b376f80/WmsDashboard.exe.config
+/mnt/c/Windows/WinSxS/msil_policy.1.0.microsof..commands.management_31bf3856ad364e35_10.0.19041.1_none_752fd400d6b22da2/Policy.1.0.Microsoft.Powershell.Commands.Management.config
+/mnt/c/Windows/WinSxS/msil_policy.1.0.microsof..ershell.consolehost_31bf3856ad364e35_10.0.19041.1_none_1daf3f6b5804f4a8/Policy.1.0.Microsoft.Powershell.ConsoleHost.config
+/mnt/c/Windows/WinSxS/msil_policy.1.0.microsof..ll.commands.utility_31bf3856ad364e35_10.0.19041.1_none_d30fcd398945ca99/Policy.1.0.Microsoft.Powershell.Commands.Utility.config
+/mnt/c/Windows/WinSxS/msil_policy.1.0.microsoft.powershell.security_31bf3856ad364e35_10.0.19041.1_none_584ce724c8eb86f3/Policy.1.0.Microsoft.Powershell.Security.config
+/mnt/c/Windows/WinSxS/msil_policy.1.0.system.management.automation_31bf3856ad364e35_10.0.19041.1_none_074c35e5a2c2c40d/Policy.1.0.System.Management.Automation.config
+/mnt/c/Windows/WinSxS/msil_policy.3.0.microsof..transfer.management_31bf3856ad364e35_10.0.19041.1_none_80f8e3bf8a81edf1/Policy.3.0.Microsoft.BackgroundIntelligentTransfer.Management.config
+/mnt/c/Windows/WinSxS/msil_system.configuration_b03f5f7f11d50a3a_10.0.19200.142_none_496e14d7a6bece18/System.configuration.dll
+/mnt/c/Windows/WinSxS/wow64_addinprocess_b77a5c561934e089_4.0.15805.0_none_9e89016ae7b9c52d/AddInProcess.exe.config
+/mnt/c/Windows/WinSxS/wow64_addinutil_b77a5c561934e089_4.0.15805.0_none_269fbad5dc8de09e/AddInUtil.exe.config
+/mnt/c/Windows/WinSxS/wow64_caspol_b03f5f7f11d50a3a_4.0.15805.0_none_f0aa60ae9c531752/caspol.exe.config
+/mnt/c/Windows/WinSxS/wow64_datasvcutil_b77a5c561934e089_4.0.15805.0_none_84e9213d5f859a22/DataSvcUtil.exe.config
+/mnt/c/Windows/WinSxS/wow64_dfsvc_b03f5f7f11d50a3a_4.0.15805.0_none_eaa1183c35721b6c/dfsvc.exe.config
+/mnt/c/Windows/WinSxS/wow64_dfsvc_b03f5f7f11d50a3a_4.0.15805.0_none_eaa1183c35721b6c/GAC/dfsvc.exe.config
+/mnt/c/Windows/WinSxS/wow64_installutil_b03f5f7f11d50a3a_4.0.15805.0_none_004b4e08cd94c339/InstallUtil.exe.config
+/mnt/c/Windows/WinSxS/wow64_jsc_b03f5f7f11d50a3a_4.0.15805.0_none_2ca7c9aa83eb3f88/jsc.exe.config
+/mnt/c/Windows/WinSxS/wow64_microsoft-windows-gpowershell-exe_31bf3856ad364e35_10.0.19041.1_none_f8d6d7787573666b/powershell_ise.exe.config
+/mnt/c/Windows/WinSxS/wow64_microsoft-windows-powershell-exe_31bf3856ad364e35_10.0.19041.546_none_5163f0069562aff6/powershell.exe.config
+/mnt/c/Windows/WinSxS/wow64_msbuild_b03f5f7f11d50a3a_4.0.15805.0_none_0606cd4b5dabfc56/msbuild.exe.config
+/mnt/c/Windows/WinSxS/wow64_regasm_b03f5f7f11d50a3a_4.0.15805.0_none_9be7d950c1f8addd/regasm.exe.config
+/mnt/c/Windows/WinSxS/x86_addinprocess32_b77a5c561934e089_4.0.15805.0_none_429bcf7adb8e23ed/AddInProcess32.exe.config
+/mnt/c/Windows/WinSxS/x86_netfx-config_files_.._gacutil_exe_config_31bf3856ad364e35_10.0.19041.1_none_f6cff495bd4d8c2c/gacutil.exe.config
+/mnt/c/Windows/WinSxS/x86_netfx-config_files_.._regsvcs_exe_config_31bf3856ad364e35_10.0.19041.1_none_b343d1416fbbbb9c/regsvcs.exe.config
+/mnt/c/Windows/WinSxS/x86_netfx-installutil_exe_config_rtm_31bf3856ad364e35_10.0.19041.1_none_1eb075c59dfe2ac9/installutil.exe.config
+/mnt/c/Windows/WinSxS/x86_netfx-regsvcs_exe_config_v1_31bf3856ad364e35_10.0.19041.1_none_37937bd81393be29/regsvcs.exe.config
+/mnt/c/Windows/WinSxS/x86_netfx-sbs_sys_config_install_dll_31bf3856ad364e35_10.0.19041.1_none_191cc5961c67bbe2/sbs_system.configuration.install.dll
+/mnt/c/Windows/WinSxS/x86_netfx4-applaunch_exe_b03f5f7f11d50a3a_4.0.15805.0_none_f04c7dcfd4283324/applaunch.exe.config
+/mnt/c/Windows/WinSxS/x86_netfx4-aspnet_config_b03f5f7f11d50a3a_4.0.15805.0_none_1bcd9c4186a9ca63/Aspnet.config
+/mnt/c/Windows/WinSxS/x86_netfx4-aspnet_webadmin_b03f5f7f11d50a3a_4.0.15805.0_none_ef6dd2b1186a2bbe/web.config
+/mnt/c/Windows/WinSxS/x86_netfx4-csc_exe_b03f5f7f11d50a3a_4.0.15805.0_none_be984aad4cfbc2f3/csc.exe.config
+/mnt/c/Windows/WinSxS/x86_netfx4-cvtres_exe_b03f5f7f11d50a3a_4.0.15805.0_none_9959f3c5e4eeac5f/cvtres.exe.config
+/mnt/c/Windows/WinSxS/x86_netfx4-ilasm_exe_b03f5f7f11d50a3a_4.0.15805.0_none_a790160b3d9e046c/ilasm.exe.config
+/mnt/c/Windows/WinSxS/x86_netfx4-legacy_web_h..rust_config_default_b03f5f7f11d50a3a_4.0.15805.0_none_46efb53da364f1e3/legacy.web_hightrust.config.default
+/mnt/c/Windows/WinSxS/x86_netfx4-legacy_web_hightrust_config_b03f5f7f11d50a3a_4.0.15805.0_none_9151d750a78deb31/legacy.web_hightrust.config
+/mnt/c/Windows/WinSxS/x86_netfx4-legacy_web_l..rust_config_default_b03f5f7f11d50a3a_4.0.15805.0_none_46a2d5c2bed55687/legacy.web_lowtrust.config.default
+/mnt/c/Windows/WinSxS/x86_netfx4-legacy_web_lowtrust_config_b03f5f7f11d50a3a_4.0.15805.0_none_1b865d5cd72c4469/legacy.web_lowtrust.config
+/mnt/c/Windows/WinSxS/x86_netfx4-legacy_web_m..rust_config_default_b03f5f7f11d50a3a_4.0.15805.0_none_6c53299823234348/legacy.web_mediumtrust.config.default
+/mnt/c/Windows/WinSxS/x86_netfx4-legacy_web_m..rust_config_default_b03f5f7f11d50a3a_4.0.15805.0_none_733349d88e72efc8/legacy.web_minimaltrust.config.default
+/mnt/c/Windows/WinSxS/x86_netfx4-legacy_web_mediumtrust_config_b03f5f7f11d50a3a_4.0.15805.0_none_46ba5702dac1a616/legacy.web_mediumtrust.config
+/mnt/c/Windows/WinSxS/x86_netfx4-legacy_web_minimaltrust_config_b03f5f7f11d50a3a_4.0.15805.0_none_6e012ad32f64ae2a/legacy.web_minimaltrust.config
+/mnt/c/Windows/WinSxS/x86_netfx4-machine_config_b03f5f7f11d50a3a_4.0.15805.0_none_cbc332fda433f4d7/machine.config
+/mnt/c/Windows/WinSxS/x86_netfx4-machine_config_b03f5f7f11d50a3a_4.0.15805.0_none_cbc332fda433f4d7/machine.config.comments
+/mnt/c/Windows/WinSxS/x86_netfx4-machine_config_b03f5f7f11d50a3a_4.0.15805.0_none_cbc332fda433f4d7/machine.config.default
+/mnt/c/Windows/WinSxS/x86_netfx4-microsoft_wo..compiler_exe_config_b03f5f7f11d50a3a_4.0.15805.0_none_68f953a8b97b9b59/Microsoft.Workflow.Compiler.exe.config
+/mnt/c/Windows/WinSxS/x86_netfx4-smsvchost_exe_config_b03f5f7f11d50a3a_4.0.15805.0_none_9d5d00066c70456b/SMSvcHost.exe.config
+/mnt/c/Windows/WinSxS/x86_netfx4-vbc_exe_b03f5f7f11d50a3a_4.0.15805.0_none_de9b06e519e58d0f/vbc.exe.config
+/mnt/c/Windows/WinSxS/x86_netfx4-web_config_b03f5f7f11d50a3a_4.0.15805.0_none_1439be0d98050ba0/web.config
+/mnt/c/Windows/WinSxS/x86_netfx4-web_config_b03f5f7f11d50a3a_4.0.15805.0_none_1439be0d98050ba0/web.config.comments
+/mnt/c/Windows/WinSxS/x86_netfx4-web_config_b03f5f7f11d50a3a_4.0.15805.0_none_1439be0d98050ba0/web.config.default
+/mnt/c/Windows/WinSxS/x86_netfx4-web_hightrust_config_b03f5f7f11d50a3a_4.0.15805.0_none_06ee165232ecaa15/web_hightrust.config
+/mnt/c/Windows/WinSxS/x86_netfx4-web_hightrust_config_default_b03f5f7f11d50a3a_4.0.15805.0_none_e95be31feaa25a13/web_hightrust.config.default
+/mnt/c/Windows/WinSxS/x86_netfx4-web_lowtrust_config_b03f5f7f11d50a3a_4.0.15805.0_none_6d546e5e2e62d301/web_lowtrust.config
+/mnt/c/Windows/WinSxS/x86_netfx4-web_lowtrust_config_default_b03f5f7f11d50a3a_4.0.15805.0_none_64c27b3126a2f1b3/web_lowtrust.config.default
+/mnt/c/Windows/WinSxS/x86_netfx4-web_mediumtrust_config_b03f5f7f11d50a3a_4.0.15805.0_none_103ebd44dfd9d7d6/web_mediumtrust.config
+/mnt/c/Windows/WinSxS/x86_netfx4-web_mediumtrust_config_default_b03f5f7f11d50a3a_4.0.15805.0_none_90c8556ad9960374/web_mediumtrust.config.default
+/mnt/c/Windows/WinSxS/x86_netfx4-web_minimaltrust_config_b03f5f7f11d50a3a_4.0.15805.0_none_2a0b6ab13d29bd70/web_minimaltrust.config
+/mnt/c/Windows/WinSxS/x86_netfx4-web_minimaltrust_config_default_b03f5f7f11d50a3a_4.0.15805.0_none_ff28c1b5a33d94a2/web_minimaltrust.config.default
+/mnt/c/Windows/WinSxS/x86_policy.1.0.microsof..op.security.azroles_31bf3856ad364e35_10.0.19041.1_none_f75721604dc4eabe/Policy.1.0.Microsoft.Interop.Security.AzRoles.config
+/mnt/c/Windows/WinSxS/x86_policy.1.2.microsof..op.security.azroles_31bf3856ad364e35_10.0.19041.1_none_468c75481260dea0/Policy.1.2.Microsoft.Interop.Security.AzRoles.config
+/mnt/c/Windows/WinSxS/x86_presentationcore_31bf3856ad364e35_10.0.19200.250_none_7b936f909fe28abc/PresentationFontCache.exe.config
+/mnt/c/Windows/WinSxS/x86_regsvcs_b03f5f7f11d50a3a_4.0.15805.0_none_8ce1f3b4679d3a76/regsvcs.exe.config
+/mnt/c/Windows/WinSxS/x86_wcf-m_smsvchost_exe_cnf_31bf3856ad364e35_10.0.19041.1_none_4e866ffd000dfd40/SMSvcHost.exe.config
+/mnt/c/Windows/WinSxS/amd64_microsoft-windows-s..es-romanian-fluency_31bf3856ad364e35_10.0.19041.1_none_ef00d2c833fe72df/.config
+/mnt/c/Windows/WinSxS/amd64_netfx-aspnet_config_b03f5f7f11d50a3a_10.0.19041.1_none_4a22873cf8deb209/Aspnet.config
+/mnt/c/Windows/WinSxS/amd64_netfx-system.configuration_b03f5f7f11d50a3a_10.0.19041.1_none_21c62dae9d067eac/System.configuration.dll
+/mnt/c/Windows/WinSxS/x86_addinprocess32_b77a5c561934e089_10.0.19041.1_none_dae2223cd3e6f926/AddInProcess32.exe.config
+/mnt/c/Windows/WinSxS/x86_msbuild_b03f5f7f11d50a3a_3.5.19041.1_none_268817e3e30b41fb/msbuild.exe.config
+/mnt/c/Windows/WinSxS/x86_netfx35linq-vbc_exe_config_orcas_31bf3856ad364e35_10.0.19041.1_none_62d681c8839445ac/vbc.exe.config
+/mnt/c/Windows/WinSxS/x86_regsvcs_b03f5f7f11d50a3a_10.0.19041.1_none_ab17ecc2f8f7d564/regsvcs.exe.config
+/mnt/c/Windows/WinSxS/x86_caspol_b03f5f7f11d50a3a_10.0.19041.1_none_2cbf497a80df4629/caspol.exe.config
+/mnt/c/Windows/WinSxS/x86_netfx-webhightrust_config_default_b03f5f7f11d50a3a_10.0.19041.1_none_eabf1c9ce6a17ae0/web_hightrust.config.default
+/mnt/c/Windows/WinSxS/x86_netfx-redist_config_files_b03f5f7f11d50a3a_10.0.19041.1_none_3c11531760204031/ieexec.exe.config
+/mnt/c/Windows/WinSxS/x86_msbuild_b03f5f7f11d50a3a_10.0.19041.1_none_421bb61742382b2d/msbuild.exe.config
+/mnt/c/Windows/WinSxS/x86_netfx-aspnet_webmintrust_config_b03f5f7f11d50a3a_10.0.19041.1_none_a385f17c9780dc46/web_minimaltrust.config
+/mnt/c/Windows/WinSxS/x86_netfx-csc_exe_config_b03f5f7f11d50a3a_10.0.19041.1_none_485cb1522a10be82/csc.exe.config
+/mnt/c/Windows/WinSxS/x86_netfx-aspnet_webmedtrust_cfg_dflt_b03f5f7f11d50a3a_10.0.19041.1_none_31d36663814fa15d/web_mediumtrust.config.default
+/mnt/c/Windows/WinSxS/x86_netfx-clr_ilasm_exe_b03f5f7f11d50a3a_10.0.19041.1_none_c3f8c36f1ece6e4e/ilasm.exe.config
+/mnt/c/Windows/WinSxS/x86_netfx-aspnet_config_b03f5f7f11d50a3a_10.0.19041.1_none_91cfbe140d5adb0f/Aspnet.config
+/mnt/c/Windows/WinSxS/wow64_microsoft-windows-m..-management-console_31bf3856ad364e35_10.0.19041.2486_none_8e7a2b8a5f42be95/mmc.exe.config
+/mnt/c/Windows/WinSxS/x86_presentationcore_31bf3856ad364e35_10.0.19200.756_none_7b997aca9fdd1489/PresentationFontCache.exe.config
+/mnt/c/Windows/WinSxS/amd64_microsoft-windows-i..raries-servercommon_31bf3856ad364e35_10.0.19041.1826_none_1e0c7e6525742ff8/applicationHost.config
+/mnt/c/Windows/WinSxS/amd64_microsoft-windows-i..raries-servercommon_31bf3856ad364e35_10.0.19041.1826_none_1e0c7e6525742ff8/redirection.config
+/mnt/c/Windows/WinSxS/amd64_microsoft-windows-a..nagement-appvclient_31bf3856ad364e35_10.0.19041.2364_none_412daa2a7d603816/AppVStreamingUX.exe.config
+/mnt/c/Windows/WinSxS/amd64_microsoft-windows-m..-management-console_31bf3856ad364e35_10.0.19041.2311_none_8429c1062adfaf23/mmc.exe.config
+/mnt/c/Windows/WinSxS/x86_netfx35linq-csharp_31bf3856ad364e35_10.0.19041.1_none_70fe2109fb29ee11/csc.exe.config
+/mnt/c/Windows/WinSxS/x86_netfx-aspnet_webmedtrust_config_b03f5f7f11d50a3a_10.0.19041.1_none_ed4b5288adf7256c/web_mediumtrust.config
+/mnt/c/Windows/WinSxS/x86_netfx-webhightrust_config_b03f5f7f11d50a3a_10.0.19041.1_none_6121d9b922872e42/web_hightrust.config
+/mnt/c/Windows/WinSxS/x86_netfx-weblowtrust_config_b03f5f7f11d50a3a_10.0.19041.1_none_9ee4102bab9ac64a/web_lowtrust.config
+/mnt/c/Windows/WinSxS/x86_netfx-vbc_exe_config_b03f5f7f11d50a3a_10.0.19041.1_none_f3653e2da0c2ec26/vbc.exe.config
+/mnt/c/Windows/WinSxS/x86_netfx-aspnet_webadmin_b03f5f7f11d50a3a_10.0.19041.1_none_a0c3511bd585129a/web.config
+/mnt/c/Windows/WinSxS/x86_netfx-weblowtrust_config_default_b03f5f7f11d50a3a_10.0.19041.1_none_80f8625ab582207c/web_lowtrust.config.default
+/mnt/c/Windows/WinSxS/amd64_microsoft-windows-m..-management-console_31bf3856ad364e35_10.0.19041.2604_none_84080ca02af93682/mmc.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx35linq-addinprocess_31bf3856ad364e35_10.0.19041.1_none_e688384bec188769/AddInProcess.exe.config
+/mnt/c/Windows/WinSxS/msil_addinutil_b77a5c561934e089_10.0.19041.1_none_724c73dbde296e25/AddInUtil.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx35linq-csharp_31bf3856ad364e35_10.0.19041.1_none_cd1cbc8db3875f47/csc.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx35linq-addinutil_31bf3856ad364e35_10.0.19041.1_none_810f46ab82b9619e/AddInUtil.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx35linq-datasvcutil_31bf3856ad364e35_10.0.19041.1_none_4547ebb03c53c11a/DataSvcUtil.exe.config
+/mnt/c/Windows/WinSxS/amd64_regasm_b03f5f7f11d50a3a_10.0.19041.1_none_904f8b459208b3ae/regasm.exe.config
+/mnt/c/Windows/WinSxS/x86_regasm_b03f5f7f11d50a3a_10.0.19041.1_none_d7fcc21ca684dcb4/regasm.exe.config
+/mnt/c/Windows/WinSxS/x86_netfx-aspnet_web_config_b03f5f7f11d50a3a_10.0.19041.1_none_5f0132d8aee083d8/web.config
+/mnt/c/Windows/WinSxS/x86_netfx-aspnet_web_config_b03f5f7f11d50a3a_10.0.19041.1_none_5f0132d8aee083d8/web.config.comments
+/mnt/c/Windows/WinSxS/x86_netfx-aspnet_web_config_b03f5f7f11d50a3a_10.0.19041.1_none_5f0132d8aee083d8/web.config.default
+/mnt/c/Windows/WinSxS/x86_netfx-aspnet_regsql_cfg_b03f5f7f11d50a3a_10.0.19041.1_none_3d27e8adf3b8208e/Aspnet_regsql.exe.config
+/mnt/c/Windows/WinSxS/x86_netfx-aspnet_webmintrust_cfg_dflt_b03f5f7f11d50a3a_10.0.19041.1_none_e80e05576ad95837/web_minimaltrust.config.default
+/mnt/c/Windows/WinSxS/wow64_microsoft-windows-m..-management-console_31bf3856ad364e35_10.0.19041.2604_none_8e5cb6f25f59f87d/mmc.exe.config
+/mnt/c/Windows/WinSxS/amd64_addinprocess32_b77a5c561934e089_10.0.19041.1_none_3700bdc08c446a5c/AddInProcess32.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx35linq-edmgen_31bf3856ad364e35_10.0.19041.1_none_646d0595db3c1ad4/EdmGen.exe.config
+/mnt/c/Windows/WinSxS/msil_datasvcutil_b77a5c561934e089_10.0.19041.1_none_27a74d404373e881/DataSvcUtil.exe.config
+/mnt/c/Windows/WinSxS/msil_edmgen_b77a5c561934e089_10.0.19041.1_none_25aa820b9acb3357/EdmGen.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx35linq-vbc_exe_config_orcas_31bf3856ad364e35_10.0.19041.1_none_bef51d4c3bf1b6e2/vbc.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx-aspnet_webmintrust_cfg_dflt_b03f5f7f11d50a3a_10.0.19041.1_none_a060ce80565d2f31/web_minimaltrust.config.default
+/mnt/c/Windows/WinSxS/amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.2604_none_714066ff9a51a504/UevAppMonitor.exe.config
+/mnt/c/Windows/WinSxS/msil_addinprocess_b77a5c561934e089_10.0.19041.1_none_5170c1bc799e651e/AddInProcess.exe.config
+/mnt/c/Windows/WinSxS/amd64_msbuild_b03f5f7f11d50a3a_3.5.19041.1_none_82a6b3679b68b331/msbuild.exe.config
+/mnt/c/Windows/WinSxS/amd64_regsvcs_b03f5f7f11d50a3a_10.0.19041.1_none_636ab5ebe47bac5e/regsvcs.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx-weblowtrust_config_default_b03f5f7f11d50a3a_10.0.19041.1_none_394b2b83a105f776/web_lowtrust.config.default
+/mnt/c/Windows/WinSxS/x86_netfx-machine_config_ocm_b03f5f7f11d50a3a_10.0.19041.1_none_b63379f9a6a95d7d/machine.config
+/mnt/c/Windows/WinSxS/x86_netfx-machine_config_ocm_b03f5f7f11d50a3a_10.0.19041.1_none_b63379f9a6a95d7d/machine.config.comments
+/mnt/c/Windows/WinSxS/x86_netfx-machine_config_ocm_b03f5f7f11d50a3a_10.0.19041.1_none_b63379f9a6a95d7d/machine.config.default
+/mnt/c/Windows/WinSxS/amd64_msbuild_b03f5f7f11d50a3a_10.0.19041.1_none_fa6e7f402dbc0227/msbuild.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx-clr_ilasm_exe_b03f5f7f11d50a3a_10.0.19041.1_none_7c4b8c980a524548/ilasm.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx-aspnet_webadmin_b03f5f7f11d50a3a_10.0.19041.1_none_59161a44c108e994/web.config
+/mnt/c/Windows/WinSxS/amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.2364_none_7166d87f9a33e93b/UevAppMonitor.exe.config
+/mnt/c/Windows/WinSxS/amd64_microsoft-windows-disksnapshot_31bf3856ad364e35_10.0.19041.2546_none_f4f326eb198ad0ea/DiskSnapshot.conf
+/mnt/c/Windows/WinSxS/amd64_netfx-aspnet_webmedtrust_cfg_dflt_b03f5f7f11d50a3a_10.0.19041.1_none_ea262f8c6cd37857/web_mediumtrust.config.default
+/mnt/c/Windows/WinSxS/amd64_netfx-redist_config_files_b03f5f7f11d50a3a_10.0.19041.1_none_f4641c404ba4172b/ieexec.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx-vbc_exe_config_b03f5f7f11d50a3a_10.0.19041.1_none_abb807568c46c320/vbc.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx-webhightrust_config_default_b03f5f7f11d50a3a_10.0.19041.1_none_a311e5c5d22551da/web_hightrust.config.default
+/mnt/c/Windows/WinSxS/amd64_netfx-csc_exe_config_b03f5f7f11d50a3a_10.0.19041.1_none_00af7a7b1594957c/csc.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx-jsc_b03f5f7f11d50a3a_10.0.19041.1_none_014838ef8bea39e9/jsc.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx-aspnet_regsql_cfg_b03f5f7f11d50a3a_10.0.19041.1_none_f57ab1d6df3bf788/Aspnet_regsql.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx-webhightrust_config_b03f5f7f11d50a3a_10.0.19041.1_none_1974a2e20e0b053c/web_hightrust.config
+/mnt/c/Windows/WinSxS/amd64_presentationcore_31bf3856ad364e35_10.0.19200.756_none_d7b8164e583a85bf/PresentationFontCache.exe.config
+/mnt/c/Windows/WinSxS/msil_system.configuration_b03f5f7f11d50a3a_10.0.19041.1_none_ec0d0873c7bbb961/System.configuration.dll
+/mnt/c/Windows/WinSxS/msil_jsc_b03f5f7f11d50a3a_10.0.19041.1_none_68bc95ae68779efe/jsc.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx-aspnet_webmedtrust_config_b03f5f7f11d50a3a_10.0.19041.1_none_a59e1bb1997afc66/web_mediumtrust.config
+/mnt/c/Windows/WinSxS/amd64_netfx-machine_config_ocm_b03f5f7f11d50a3a_10.0.19041.1_none_6e864322922d3477/machine.config
+/mnt/c/Windows/WinSxS/amd64_netfx-machine_config_ocm_b03f5f7f11d50a3a_10.0.19041.1_none_6e864322922d3477/machine.config.comments
+/mnt/c/Windows/WinSxS/amd64_netfx-machine_config_ocm_b03f5f7f11d50a3a_10.0.19041.1_none_6e864322922d3477/machine.config.default
+/mnt/c/Windows/WinSxS/amd64_netfx-weblowtrust_config_b03f5f7f11d50a3a_10.0.19041.1_none_5736d954971e9d44/web_lowtrust.config
+/mnt/c/Windows/WinSxS/amd64_netfx-aspnet_webmintrust_config_b03f5f7f11d50a3a_10.0.19041.1_none_5bd8baa58304b340/web_minimaltrust.config
+/mnt/c/Windows/WinSxS/x86_presentationcore_31bf3856ad364e35_10.0.19041.1_none_0603843f76f45ec1/PresentationFontCache.exe.config
+/mnt/c/Windows/WinSxS/amd64_presentationcore_31bf3856ad364e35_10.0.19041.1_none_62221fc32f51cff7/PresentationFontCache.exe.config
+/mnt/c/Windows/WinSxS/amd64_netfx-aspnet_web_config_b03f5f7f11d50a3a_10.0.19041.1_none_1753fc019a645ad2/web.config
+/mnt/c/Windows/WinSxS/amd64_netfx-aspnet_web_config_b03f5f7f11d50a3a_10.0.19041.1_none_1753fc019a645ad2/web.config.comments
+/mnt/c/Windows/WinSxS/amd64_netfx-aspnet_web_config_b03f5f7f11d50a3a_10.0.19041.1_none_1753fc019a645ad2/web.config.default
+/mnt/c/Windows/WinSxS/amd64_caspol_b03f5f7f11d50a3a_10.0.19041.1_none_e51212a36c631d23/caspol.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/CrossRepositorySearch/ServiceHub/Microsoft.VisualStudio.Platform.CrossRepositorySearch.Service.dll.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/ManagedLanguages/VBCSharp/LanguageServices/InteractiveHost/Desktop/InteractiveHost32.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/ManagedLanguages/VBCSharp/LanguageServices/InteractiveHost/Desktop/InteractiveHost64.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Kofe.JDWP.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/vscode/OpenDebugAD7.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/NuGet/NuGet.Build.Tasks.Console.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/BuildNotificationApp.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/Git/etc/nsswitch.conf
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/Git/mingw32/bin/Atlassian.Bitbucket.UI.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/Git/mingw32/bin/git-credential-manager-core.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/Git/mingw32/bin/GitHub.UI.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/Git/mingw32/bin/GitLab.UI.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/TF.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/TFSBuild.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/TfsDeleteProject.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/TFSSecurity.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/witadmin.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TestWindow/VsTest/datacollector.dll.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TestWindow/VsTest/TestHost/datacollector.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TestWindow/VsTest/TestHost/testhost.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TestWindow/VsTest/TestHost/testhost.net452.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TestWindow/VsTest/TestHost/testhost.net452.x86.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TestWindow/VsTest/TestHost/testhost.net46.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TestWindow/VsTest/TestHost/testhost.net46.x86.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TestWindow/VsTest/TestHost/testhost.net461.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TestWindow/VsTest/TestHost/testhost.net461.x86.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TestWindow/VsTest/TestHost/testhost.net462.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TestWindow/VsTest/TestHost/testhost.net462.x86.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TestWindow/VsTest/TestHost/testhost.net47.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TestWindow/VsTest/TestHost/testhost.net47.x86.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TestWindow/VsTest/TestHost/testhost.net471.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TestWindow/VsTest/TestHost/testhost.net471.x86.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TestWindow/VsTest/TestHost/testhost.net472.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TestWindow/VsTest/TestHost/testhost.net472.x86.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TestWindow/VsTest/TestHost/testhost.net48.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TestWindow/VsTest/TestHost/testhost.net48.x86.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TestWindow/VsTest/TestHost/testhost.x86.exe.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TestWindow/VsTest/vstest.console.dll.config
+/mnt/d/Asc/VS/Common7/IDE/CommonExtensions/Microsoft/TestWindow/vstest.console.exe.config
+/mnt/d/Asc/VS/Common7/IDE/devenv.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/2qyepqqu.524/Microsoft.VisualStudio.Cache.Service.dll.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/extensions.configurationchanged
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/datacollector.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/Extensions/V1/Microsoft.VisualStudio.QualityTools.Plugins.CodeCoverage.dll.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/Extensions/V1/Microsoft.VisualStudio.TestTools.DataCollection.EventLog.dll.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/Extensions/V1/Microsoft.VisualStudio.TestTools.DataCollection.VideoRecorder.dll.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/Extensions/V1/Microsoft.VisualStudio.TraceCollector.dll.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/Extensions/V1/VSTestVideoRecorder.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/QTAgent.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/QTAgent32.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/QTAgent32_35.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/QTAgent32_40.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/QTAgent_35.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/QTAgent_40.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/QTDCAgent.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/QTDCAgent32.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/SettingsMigrator.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/testhost.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/testhost.net452.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/testhost.net452.x86.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/testhost.net46.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/testhost.net46.x86.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/testhost.net461.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/testhost.net461.x86.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/testhost.net462.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/testhost.net462.x86.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/testhost.net47.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/testhost.net47.x86.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/testhost.net471.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/testhost.net471.x86.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/testhost.net472.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/testhost.net472.x86.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/testhost.net48.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/testhost.net48.x86.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/testhost.x86.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/testplatform.config
+/mnt/d/Asc/VS/Common7/IDE/Extensions/TestPlatform/vstest.console.exe.config
+/mnt/d/Asc/VS/Common7/IDE/FeedbackCollector.exe.config
+/mnt/d/Asc/VS/Common7/IDE/MSTest.exe.config
+/mnt/d/Asc/VS/Common7/IDE/PerfWatson2.exe.config
+/mnt/d/Asc/VS/Common7/IDE/QTAgent.exe.config
+/mnt/d/Asc/VS/Common7/IDE/QTAgent32.exe.config
+/mnt/d/Asc/VS/Common7/IDE/QTAgent32_35.exe.config
+/mnt/d/Asc/VS/Common7/IDE/QTAgent32_40.exe.config
+/mnt/d/Asc/VS/Common7/IDE/QTAgent_35.exe.config
+/mnt/d/Asc/VS/Common7/IDE/QTAgent_40.exe.config
+/mnt/d/Asc/VS/Common7/IDE/QTDCAgent.exe.config
+/mnt/d/Asc/VS/Common7/IDE/QTDCAgent32.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Remote Debugger/Appx/AppxDebugSysTray.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Remote Debugger/x64/msvsmon.exe.config
+/mnt/d/Asc/VS/Common7/IDE/Remote Debugger/x86/msvsmon.exe.config
+/mnt/d/Asc/VS/Common7/IDE/T4VSHostProcess.exe.config
+/mnt/d/Asc/VS/Common7/IDE/TextTransform.exe.config
+/mnt/d/Asc/VS/Common7/IDE/VC/vcpackages/vcpkgsrv.exe.config
+/mnt/d/Asc/VS/Common7/IDE/VC/VCProjectItems/Utility/app.config
+/mnt/d/Asc/VS/Common7/IDE/VcxprojReader.exe.config
+/mnt/d/Asc/VS/Common7/IDE/VSFinalizer.exe.config
+/mnt/d/Asc/VS/Common7/IDE/VSIXInstaller.exe.config
+/mnt/d/Asc/VS/Common7/IDE/vsn.exe.config
+/mnt/d/Asc/VS/Common7/ServiceHub/controller/Microsoft.ServiceHub.Controller.exe.config
+/mnt/d/Asc/VS/Common7/ServiceHub/Hosts/ServiceHub.Host.CLR.AnyCPU/ServiceHub.Host.CLR.exe.config
+/mnt/d/Asc/VS/Common7/ServiceHub/Hosts/ServiceHub.Host.CLR.AnyCPU/ServiceHub.LiveUnitTesting.exe.config
+/mnt/d/Asc/VS/Common7/ServiceHub/Hosts/ServiceHub.Host.CLR.AnyCPU/ServiceHub.RoslynCodeAnalysisService.exe.config
+/mnt/d/Asc/VS/Common7/ServiceHub/Hosts/ServiceHub.Host.CLR.AnyCPU/ServiceHub.RoslynCodeAnalysisServiceS.exe.config
+/mnt/d/Asc/VS/Common7/ServiceHub/Hosts/ServiceHub.Host.CLR.AnyCPU/ServiceHub.TestWindowStoreHost.exe.config
+/mnt/d/Asc/VS/Common7/ServiceHub/Hosts/ServiceHub.Host.CLR.x64/ServiceHub.DataWarehouseHost.exe.config
+/mnt/d/Asc/VS/Common7/ServiceHub/Hosts/ServiceHub.Host.CLR.x64/ServiceHub.Host.CLR.x64.exe.config
+/mnt/d/Asc/VS/Common7/ServiceHub/Hosts/ServiceHub.Host.CLR.x86/ServiceHub.DataWarehouseHost.exe.config
+/mnt/d/Asc/VS/Common7/ServiceHub/Hosts/ServiceHub.Host.CLR.x86/ServiceHub.Host.CLR.x86.exe.config
+/mnt/d/Asc/VS/Common7/ServiceHub/Hosts/ServiceHub.Host.CLR.x86/ServiceHub.IdentityHost.exe.config
+/mnt/d/Asc/VS/Common7/ServiceHub/Hosts/ServiceHub.Host.CLR.x86/ServiceHub.RoslynCodeAnalysisService32.exe.config
+/mnt/d/Asc/VS/Common7/ServiceHub/Hosts/ServiceHub.Host.CLR.x86/ServiceHub.SettingsHost.exe.config
+/mnt/d/Asc/VS/Common7/ServiceHub/Hosts/ServiceHub.Host.CLR.x86/ServiceHub.ThreadedWaitDialog.exe.config
+/mnt/d/Asc/VS/Common7/ServiceHub/Hosts/ServiceHub.Host.CLR.x86/ServiceHub.VSDetouredHost.exe.config
+/mnt/d/Asc/VS/Common7/ServiceHub/Services/Microsoft.Developer.IdentityService/Microsoft.Developer.IdentityService.dll.config
+/mnt/d/Asc/VS/Common7/servicehub.config.json
+/mnt/d/Asc/VS/MSBuild/Current/Bin/amd64/MSBuild.exe.config
+/mnt/d/Asc/VS/MSBuild/Current/Bin/amd64/MSBuildTaskHost.exe.config
+/mnt/d/Asc/VS/MSBuild/Current/Bin/AssemblyFolders.config
+/mnt/d/Asc/VS/MSBuild/Current/Bin/MSBuild.exe.config
+/mnt/d/Asc/VS/MSBuild/Current/Bin/MSBuildTaskHost.exe.config
+/mnt/d/Asc/VS/MSBuild/Current/Bin/Roslyn/csc.exe.config
+/mnt/d/Asc/VS/MSBuild/Current/Bin/Roslyn/csi.exe.config
+/mnt/d/Asc/VS/MSBuild/Current/Bin/Roslyn/vbc.exe.config
+/mnt/d/Asc/VS/MSBuild/Current/Bin/Roslyn/VBCSCompiler.exe.config
+/mnt/d/Asc/VS/Team Tools/Static Analysis Tools/FxCop/FxCopCmd.exe.config
+/mnt/d/Asc/VS/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe.config
+/mnt/d/Asc/VS/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/link.exe.config
+/mnt/d/Asc/VS/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/xdcmake.exe.config
+/mnt/d/Asc/VS/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x86/cl.exe.config
+/mnt/d/Asc/VS/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x86/link.exe.config
+/mnt/d/Asc/VS/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x86/xdcmake.exe.config
+/mnt/d/Asc/VS/VC/Tools/MSVC/14.29.30133/bin/Hostx86/x64/cl.exe.config
+/mnt/d/Asc/VS/VC/Tools/MSVC/14.29.30133/bin/Hostx86/x64/link.exe.config
+/mnt/d/Asc/VS/VC/Tools/MSVC/14.29.30133/bin/Hostx86/x64/xdcmake.exe.config
+/mnt/d/Asc/VS/VC/Tools/MSVC/14.29.30133/bin/Hostx86/x86/cl.exe.config
+/mnt/d/Asc/VS/VC/Tools/MSVC/14.29.30133/bin/Hostx86/x86/link.exe.config
+/mnt/d/Asc/VS/VC/Tools/MSVC/14.29.30133/bin/Hostx86/x86/xdcmake.exe.config
+/mnt/d/Steam/bin/panorama/etc/fonts/conf.d/20-aliases-default-win.conf
+/mnt/d/Steam/bin/panorama/etc/fonts/conf.d/20-fix-cantarell.conf
+/mnt/d/Steam/bin/panorama/etc/fonts/conf.d/21-aliases-wine-win7-inf.conf
+/mnt/d/Steam/bin/panorama/etc/fonts/conf.d/30-non-latin-inf-win.conf
+/mnt/d/Steam/bin/panorama/etc/fonts/conf.d/41-repl-os-win.conf
+/mnt/d/Steam/bin/panorama/etc/fonts/conf.d/42-repl-global.conf
+/mnt/d/Steam/bin/panorama/etc/fonts/conf.d/43-repl-tt-traced-bitmap.conf
+/mnt/d/Steam/bin/panorama/etc/fonts/conf.d/44-repl-corrective.conf
+/mnt/d/Steam/bin/panorama/etc/fonts/conf.d/50-base-rendering-win7-winxp.conf
+/mnt/d/Steam/bin/panorama/etc/fonts/conf.d/60-group-non-tt-fonts.conf
+/mnt/d/Steam/bin/panorama/etc/fonts/conf.d/60-group-tt-fonts.conf
+/mnt/d/Steam/bin/panorama/etc/fonts/conf.d/61-group-non-tt-rendering-inf-7-xp-lin.conf
+/mnt/d/Steam/bin/panorama/etc/fonts/conf.d/61-group-tt-rendering-inf-7-xp.conf
+/mnt/d/Steam/bin/panorama/etc/fonts/conf.d/62-tt-monospace-rendering.conf
+/mnt/d/Steam/bin/panorama/etc/fonts/conf.d/62-tt-traced-bitmap-rendering.conf
+/mnt/d/Steam/bin/panorama/etc/fonts/conf.d/65-override.conf
+/mnt/d/Steam/bin/panorama/etc/fonts/conf.d/70-forced-synthetic.conf
+/mnt/d/Steam/bin/panorama/etc/fonts/conf.d/80-selective-rendering-inf-7-xp.conf
+/mnt/d/Steam/bin/panorama/etc/fonts/conf.d/80-selective-rendering-inf-win-lin.conf
+/mnt/d/Steam/bin/panorama/etc/fonts/conf.d/81-final-rendering-inf-7-xp.conf
+/mnt/d/Steam/bin/panorama/etc/fonts/conf.d/90-no-synthetic.conf
+/mnt/d/Steam/bin/panorama/etc/fonts/conf.d/90-reject.conf
+/mnt/d/Steam/bin/panorama/etc/fonts/fonts.conf
+/mnt/d/Steam/steamapps/common/TotallyAccurateBattlegrounds/MonoBleedingEdge/etc/mono/2.0/machine.config
+/mnt/d/Steam/steamapps/common/TotallyAccurateBattlegrounds/MonoBleedingEdge/etc/mono/2.0/web.config
+/mnt/d/Steam/steamapps/common/TotallyAccurateBattlegrounds/MonoBleedingEdge/etc/mono/4.0/machine.config
+/mnt/d/Steam/steamapps/common/TotallyAccurateBattlegrounds/MonoBleedingEdge/etc/mono/4.0/web.config
+/mnt/d/Steam/steamapps/common/TotallyAccurateBattlegrounds/MonoBleedingEdge/etc/mono/4.5/machine.config
+/mnt/d/Steam/steamapps/common/TotallyAccurateBattlegrounds/MonoBleedingEdge/etc/mono/4.5/web.config
+/mnt/d/Steam/steamapps/common/TotallyAccurateBattlegrounds/TotallyAccurateBattlegrounds_Data/boot.config
+/run/resolvconf/resolv.conf
+/usr/lib/environment.d/990-snapd.conf
+/usr/lib/initramfs-tools/etc/dhcp/dhclient.conf
+/usr/lib/modprobe.d/aliases.conf
+/usr/lib/modprobe.d/fbdev-blacklist.conf
+/usr/lib/modprobe.d/systemd.conf
+/usr/lib/sysctl.d/50-default.conf
+/usr/lib/sysctl.d/50-pid-max.conf
+/usr/lib/sysctl.d/99-protect-links.conf
+/usr/lib/systemd/logind.conf.d/unattended-upgrades-logind-maxdelay.conf
+/usr/lib/systemd/resolv.conf
+/usr/lib/systemd/system/rc-local.service.d/debian.conf
+/usr/lib/systemd/system/systemd-localed.service.d/locale-gen.conf
+/usr/lib/systemd/system/user-.slice.d/10-defaults.conf
+/usr/lib/systemd/system/user@.service.d/timeout.conf
+/usr/lib/sysusers.d/basic.conf
+/usr/lib/sysusers.d/dbus.conf
+/usr/lib/sysusers.d/systemd-journal.conf
+/usr/lib/sysusers.d/systemd-network.conf
+/usr/lib/sysusers.d/systemd-resolve.conf
+/usr/lib/sysusers.d/systemd-timesync.conf
+/usr/lib/tmpfiles.d/00rsyslog.conf
+/usr/lib/tmpfiles.d/apport.conf
+/usr/lib/tmpfiles.d/dbus.conf
+/usr/lib/tmpfiles.d/debian.conf
+/usr/lib/tmpfiles.d/home.conf
+/usr/lib/tmpfiles.d/journal-nocow.conf
+/usr/lib/tmpfiles.d/legacy.conf
+/usr/lib/tmpfiles.d/man-db.conf
+/usr/lib/tmpfiles.d/passwd.conf
+/usr/lib/tmpfiles.d/screen-cleanup.conf
+/usr/lib/tmpfiles.d/snapd.conf
+/usr/lib/tmpfiles.d/static-nodes-permissions.conf
+/usr/lib/tmpfiles.d/sudo.conf
+/usr/lib/tmpfiles.d/systemd-nologin.conf
+/usr/lib/tmpfiles.d/systemd-pstore.conf
+/usr/lib/tmpfiles.d/systemd-tmp.conf
+/usr/lib/tmpfiles.d/systemd.conf
+/usr/lib/tmpfiles.d/tmp.conf
+/usr/lib/tmpfiles.d/var.conf
+/usr/lib/tmpfiles.d/x11.conf
+/usr/lib/x86_64-linux-gnu/gconv/gconv-modules.d/gconv-modules-extra.conf
+/usr/lib32/gconv/gconv-modules.d/gconv-modules-extra.conf
+/usr/share/adduser/adduser.conf
+/usr/share/byobu/keybindings/tmux-screen-keys.conf
+/usr/share/dbus-1/session.conf
+/usr/share/dbus-1/session.d/snapd.session-services.conf
+/usr/share/dbus-1/system.conf
+/usr/share/dbus-1/system.d/io.netplan.Netplan.conf
+/usr/share/dbus-1/system.d/org.freedesktop.hostname1.conf
+/usr/share/dbus-1/system.d/org.freedesktop.locale1.conf
+/usr/share/dbus-1/system.d/org.freedesktop.login1.conf
+/usr/share/dbus-1/system.d/org.freedesktop.network1.conf
+/usr/share/dbus-1/system.d/org.freedesktop.PolicyKit1.conf
+/usr/share/dbus-1/system.d/org.freedesktop.resolve1.conf
+/usr/share/dbus-1/system.d/org.freedesktop.systemd1.conf
+/usr/share/dbus-1/system.d/org.freedesktop.timedate1.conf
+/usr/share/dbus-1/system.d/org.freedesktop.timesync1.conf
+/usr/share/dbus-1/system.d/snapd.system-services.conf
+/usr/share/debconf/debconf.conf
+/usr/share/doc/adduser/examples/adduser.local.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/adduser.conf
+/usr/share/doc/apt/examples/apt.conf
+/usr/share/doc/apt-utils/examples/apt-ftparchive.conf
+/usr/share/doc/apt-utils/examples/ftp-archive.conf
+/usr/share/doc/busybox-static/examples/mdev.conf
+/usr/share/doc/busybox-static/examples/mdev.conf.change_blockdev.sh
+/usr/share/doc/busybox-static/examples/mdev_fat.conf.gz
+/usr/share/doc/busybox-static/examples/udhcp/udhcpd.conf.gz
+/usr/share/doc/busybox-static/syslog.conf.txt
+/usr/share/doc/gnupg/examples/gpgconf.conf
+/usr/share/doc/gpgconf/examples/gpgconf.conf
+/usr/share/doc/libp11-kit0/examples/pkcs11.conf.example
+/usr/share/doc/libsasl2-2/README.configure-options
+/usr/share/doc/man-db/examples/manpath.config
+/usr/share/doc/procps/examples/sysctl.conf
+/usr/share/doc/rsync/examples/logrotate.conf.rsync
+/usr/share/doc/rsync/examples/rsyncd.conf
+/usr/share/doc/rsyslog/examples/rsyslog.d/console.conf
+/usr/share/doc/rsyslog/examples/rsyslog.d/xconsole.conf
+/usr/share/doc/rsyslog/examples/tmpfiles.d/xconsole.conf
+/usr/share/doc/sudo/examples/cvtsudoers.conf
+/usr/share/doc/sudo/examples/pam.conf
+/usr/share/doc/sudo/examples/sudo.conf
+/usr/share/doc/sudo/examples/sudo_logsrvd.conf
+/usr/share/doc/sudo/examples/syslog.conf
+/usr/share/doc/tmux/example_tmux.conf
+/usr/share/libc-bin/nsswitch.conf
+/usr/share/man/da/man5/adduser.conf.5.gz
+/usr/share/man/da/man5/deluser.conf.5.gz
+/usr/share/man/de/man5/adduser.conf.5.gz
+/usr/share/man/de/man5/apt.conf.5.gz
+/usr/share/man/de/man5/apt_auth.conf.5.gz
+/usr/share/man/de/man5/deluser.conf.5.gz
+/usr/share/man/de/man5/sysctl.conf.5.gz
+/usr/share/man/es/man5/adduser.conf.5.gz
+/usr/share/man/es/man5/deluser.conf.5.gz
+/usr/share/man/fr/man5/adduser.conf.5.gz
+/usr/share/man/fr/man5/apt.conf.5.gz
+/usr/share/man/fr/man5/apt_auth.conf.5.gz
+/usr/share/man/fr/man5/deluser.conf.5.gz
+/usr/share/man/fr/man5/sysctl.conf.5.gz
+/usr/share/man/it/man5/adduser.conf.5.gz
+/usr/share/man/it/man5/apt.conf.5.gz
+/usr/share/man/it/man5/deluser.conf.5.gz
+/usr/share/man/ja/man5/apt.conf.5.gz
+/usr/share/man/man5/access.conf.5.gz
+/usr/share/man/man5/adduser.conf.5.gz
+/usr/share/man/man5/apt.conf.5.gz
+/usr/share/man/man5/apt_auth.conf.5.gz
+/usr/share/man/man5/capability.conf.5.gz
+/usr/share/man/man5/deluser.conf.5.gz
+/usr/share/man/man5/dhclient.conf.5.gz
+/usr/share/man/man5/e2fsck.conf.5.gz
+/usr/share/man/man5/faillock.conf.5.gz
+/usr/share/man/man5/gai.conf.5.gz
+/usr/share/man/man5/gitweb.conf.5.gz
+/usr/share/man/man5/group.conf.5.gz
+/usr/share/man/man5/hdparm.conf.5.gz
+/usr/share/man/man5/host.conf.5.gz
+/usr/share/man/man5/journald.conf.5.gz
+/usr/share/man/man5/ldap.conf.5.gz
+/usr/share/man/man5/libaudit.conf.5.gz
+/usr/share/man/man5/limits.conf.5.gz
+/usr/share/man/man5/loader.conf.5.gz
+/usr/share/man/man5/locale.conf.5.gz
+/usr/share/man/man5/logind.conf.5.gz
+/usr/share/man/man5/mke2fs.conf.5.gz
+/usr/share/man/man5/namespace.conf.5.gz
+/usr/share/man/man5/networkd.conf.5.gz
+/usr/share/man/man5/nsswitch.conf.5.gz
+/usr/share/man/man5/pam.conf.5.gz
+/usr/share/man/man5/pam_env.conf.5.gz
+/usr/share/man/man5/pstore.conf.5.gz
+/usr/share/man/man5/resolv.conf.5.gz
+/usr/share/man/man5/resolved.conf.5.gz
+/usr/share/man/man5/rsyncd.conf.5.gz
+/usr/share/man/man5/rsyslog.conf.5.gz
+/usr/share/man/man5/semanage.conf.5.gz
+/usr/share/man/man5/sepermit.conf.5.gz
+/usr/share/man/man5/sudo.conf.5.gz
+/usr/share/man/man5/sudo_logsrvd.conf.5.gz
+/usr/share/man/man5/sysctl.conf.5.gz
+/usr/share/man/man5/systemd-sleep.conf.5.gz
+/usr/share/man/man5/systemd-system.conf.5.gz
+/usr/share/man/man5/time.conf.5.gz
+/usr/share/man/man5/timesyncd.conf.5.gz
+/usr/share/man/man5/ucf.conf.5.gz
+/usr/share/man/man5/udev.conf.5.gz
+/usr/share/man/man5/user-dirs.conf.5.gz
+/usr/share/man/nl/man5/apt.conf.5.gz
+/usr/share/man/nl/man5/apt_auth.conf.5.gz
+/usr/share/man/pl/man5/adduser.conf.5.gz
+/usr/share/man/pl/man5/deluser.conf.5.gz
+/usr/share/man/pt/man5/adduser.conf.5.gz
+/usr/share/man/pt/man5/apt.conf.5.gz
+/usr/share/man/pt/man5/apt_auth.conf.5.gz
+/usr/share/man/pt/man5/deluser.conf.5.gz
+/usr/share/man/ru/man5/adduser.conf.5.gz
+/usr/share/man/ru/man5/deluser.conf.5.gz
+/usr/share/man/ru/man5/semanage.conf.5.gz
+/usr/share/man/sv/man5/adduser.conf.5.gz
+/usr/share/man/sv/man5/deluser.conf.5.gz
+/usr/share/man/uk/man5/sysctl.conf.5.gz
+/usr/share/pastebin.d/dpaste.com.conf
+/usr/share/pastebin.d/fpaste.org.conf
+/usr/share/pastebin.d/p.defau.lt.conf
+/usr/share/pastebin.d/paste.debian.net.conf
+/usr/share/pastebin.d/paste.opendev.org.conf
+/usr/share/pastebin.d/paste.pound-python.org.conf
+/usr/share/pastebin.d/paste.ubuntu.com.conf
+/usr/share/pastebin.d/paste.ubuntu.org.cn.conf
+/usr/share/pastebin.d/paste2.org.conf
+/usr/share/pastebin.d/pastebin.com.conf
+/usr/share/pastebin.d/slexy.org.conf
+/usr/share/pastebin.d/sprunge.us.conf
+/usr/share/rsyslog/50-default.conf
+/usr/share/ufw/ufw.conf
+/var/lib/dpkg/info/adduser.conffiles
+/var/lib/dpkg/info/adduser.config
+/var/lib/dpkg/info/apparmor.conffiles
+/var/lib/dpkg/info/apparmor.config
+/var/lib/dpkg/info/apport.conffiles
+/var/lib/dpkg/info/apt.conffiles
+/var/lib/dpkg/info/base-files.conffiles
+/var/lib/dpkg/info/bash-completion.conffiles
+/var/lib/dpkg/info/bash.conffiles
+/var/lib/dpkg/info/byobu.conffiles
+/var/lib/dpkg/info/byobu.config
+/var/lib/dpkg/info/ca-certificates.config
+/var/lib/dpkg/info/command-not-found.conffiles
+/var/lib/dpkg/info/console-setup-linux.conffiles
+/var/lib/dpkg/info/console-setup.config
+/var/lib/dpkg/info/cron.conffiles
+/var/lib/dpkg/info/dash.config
+/var/lib/dpkg/info/dbus-x11.conffiles
+/var/lib/dpkg/info/dbus.conffiles
+/var/lib/dpkg/info/debconf.conffiles
+/var/lib/dpkg/info/debconf.config
+/var/lib/dpkg/info/dpkg.conffiles
+/var/lib/dpkg/info/e2fsprogs.conffiles
+/var/lib/dpkg/info/fontconfig-config.conffiles
+/var/lib/dpkg/info/fonts-dejavu-core.conffiles
+/var/lib/dpkg/info/fuse3.conffiles
+/var/lib/dpkg/info/gawk.conffiles
+/var/lib/dpkg/info/gdb.conffiles
+/var/lib/dpkg/info/git.conffiles
+/var/lib/dpkg/info/gpg-agent.conffiles
+/var/lib/dpkg/info/groff-base.conffiles
+/var/lib/dpkg/info/hdparm.conffiles
+/var/lib/dpkg/info/iproute2.conffiles
+/var/lib/dpkg/info/iproute2.config
+/var/lib/dpkg/info/irqbalance.conffiles
+/var/lib/dpkg/info/isc-dhcp-client.conffiles
+/var/lib/dpkg/info/keyboard-configuration.config
+/var/lib/dpkg/info/kmod.conffiles
+/var/lib/dpkg/info/libattr1:amd64.conffiles
+/var/lib/dpkg/info/libaudit-common.conffiles
+/var/lib/dpkg/info/libc-bin.conffiles
+/var/lib/dpkg/info/libc6-i386.conffiles
+/var/lib/dpkg/info/libc6:amd64.conffiles
+/var/lib/dpkg/info/libdebuginfod-common.config
+/var/lib/dpkg/info/libldap-common.conffiles
+/var/lib/dpkg/info/libmagic1:amd64.conffiles
+/var/lib/dpkg/info/libnewt0.52:amd64.conffiles
+/var/lib/dpkg/info/libnl-3-200:amd64.conffiles
+/var/lib/dpkg/info/libpam-cap:amd64.conffiles
+/var/lib/dpkg/info/libpam-modules:amd64.conffiles
+/var/lib/dpkg/info/libpam-runtime.conffiles
+/var/lib/dpkg/info/libpython3.10-minimal:amd64.conffiles
+/var/lib/dpkg/info/libsasl2-modules:amd64.conffiles
+/var/lib/dpkg/info/libsemanage-common.conffiles
+/var/lib/dpkg/info/libtirpc-common.conffiles
+/var/lib/dpkg/info/locales.conffiles
+/var/lib/dpkg/info/locales.config
+/var/lib/dpkg/info/login.conffiles
+/var/lib/dpkg/info/logrotate.conffiles
+/var/lib/dpkg/info/man-db.conffiles
+/var/lib/dpkg/info/man-db.config
+/var/lib/dpkg/info/media-types.conffiles
+/var/lib/dpkg/info/motd-news-config.conffiles
+/var/lib/dpkg/info/nano.conffiles
+/var/lib/dpkg/info/ncurses-base.conffiles
+/var/lib/dpkg/info/netbase.conffiles
+/var/lib/dpkg/info/networkd-dispatcher.conffiles
+/var/lib/dpkg/info/nftables.conffiles
+/var/lib/dpkg/info/openssh-client.conffiles
+/var/lib/dpkg/info/openssl.conffiles
+/var/lib/dpkg/info/packagekit.conffiles
+/var/lib/dpkg/info/passwd.conffiles
+/var/lib/dpkg/info/perl.conffiles
+/var/lib/dpkg/info/plymouth.conffiles
+/var/lib/dpkg/info/polkitd.conffiles
+/var/lib/dpkg/info/procps.conffiles
+/var/lib/dpkg/info/rsync.conffiles
+/var/lib/dpkg/info/rsyslog.conffiles
+/var/lib/dpkg/info/screen.conffiles
+/var/lib/dpkg/info/show-motd.conffiles
+/var/lib/dpkg/info/snapd.conffiles
+/var/lib/dpkg/info/software-properties-common.conffiles
+/var/lib/dpkg/info/sudo.conffiles
+/var/lib/dpkg/info/systemd-timesyncd.conffiles
+/var/lib/dpkg/info/systemd.conffiles
+/var/lib/dpkg/info/tcpdump.conffiles
+/var/lib/dpkg/info/tzdata.config
+/var/lib/dpkg/info/ubuntu-advantage-tools.conffiles
+/var/lib/dpkg/info/ubuntu-advantage-tools.config
+/var/lib/dpkg/info/ubuntu-release-upgrader-core.conffiles
+/var/lib/dpkg/info/ucf.conffiles
+/var/lib/dpkg/info/udev.conffiles
+/var/lib/dpkg/info/ufw.conffiles
+/var/lib/dpkg/info/ufw.config
+/var/lib/dpkg/info/unattended-upgrades.conffiles
+/var/lib/dpkg/info/unattended-upgrades.config
+/var/lib/dpkg/info/util-linux.conffiles
+/var/lib/dpkg/info/uuid-runtime.conffiles
+/var/lib/dpkg/info/vim-common.conffiles
+/var/lib/dpkg/info/vim-tiny.conffiles
+/var/lib/dpkg/info/wget.conffiles
+/var/lib/dpkg/info/xdg-user-dirs.conffiles
+/var/lib/ucf/cache/:etc:apt:apt.conf.d:20auto-upgrades
+/var/lib/ucf/cache/:etc:apt:apt.conf.d:50unattended-upgrades
+/var/lib/ucf/cache/:etc:rsyslog.d:50-default.conf

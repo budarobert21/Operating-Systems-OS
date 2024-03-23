@@ -1,0 +1,16 @@
+#!/bin/bash
+
+
+if [ $# -eq 0  ];then
+      echo "Numar insuficient de argumente"
+fi
+
+N=$1
+
+for X in $(seq 1 $N);do
+	touch "file_$X.txt"
+	sed -n ''$X',+5p' >"file_$X.txt"
+
+
+
+done

@@ -1,0 +1,93 @@
+
+Exercitiile plus rezolvarile lor
+
+1.	Find all the usernames that logged in from "economica" on a Sunday	Use "last" to find the last logins, and then search for entries containing "economica" and "Sun". Extract the first column, and using "sort" and "uniq" display only distinct usernames.	
+boir1417
+giie1411
+piir1546
+vlir1593
+
+REZOLVARE: cat last.fake | grep 'Sun' | grep 'economica' | cut -d ' ' -f1 | sort | uniq
+	   awk -F' ' '$3 ~ /^economica.*/ && $4 ~ /Sun/ {print $1}' last.fake | sort | uniq
+
+2.	Find all the users that logged into the system after 11PM	Use "last" to get the data. Extract the username and the login time columns. Replace ";" with space int he result, then print only the usernames that appear on lines with the middle field 23 or greater. Use the "head" command to eliminate the last line which is not really part of the data. Use "sort" and "uniq" to show only distinct user names.	
+piir1546
+srir1568
+tnir1590
+vlir1593
+
+REZOLVARE: cat last.fake | awk '{print $1,$7}'| sed 's/:/ /'| awk '{if ($2>=23) print $1}'| sort | uniq | head -n -1
+
+3.	Display the full names of the users having a username that starts with "m" and with a user ID divisible by 7.	Use /etc/passwd. Search for line starting with "m", the display the fifth column of the lines that have the third field divisible by 7	
+Malinescu Amalia-Greta
+Martinescu Bogdan
+Malinescu Bianca-Liliana
+Malinescu Diana-Flavia
+Malinescu Elena-Ioana
+Martinescu Laurentiu
+
+
+REZOLVARE: cat passwd.fake |cut -d ':' -f 5 | awk -F ':' '{if($3 % 7 == 0) print $5 }' passwd.fake | grep '^M'
+
+
+4.	Display all the distinct TTYs used by user root.	Use command "ps -ef" to get the data. Search for lines starting with "root" and display their sisth field. Use "sort" and "uniq" to display the distinct value	
+?
+pts/2
+tty1
+tty2
+tty3
+tty4
+tty5
+tty6
+5.	Find the full names of all the users whose username ends in 88	Use /etc/passed. Search for the required entries, then extract the fifth column only.	
+Lobodescu Amalia-Monica
+Leopardescu Dan
+
+REZOLVARE: cat passwd.fake | grep '88:\b' | cut -d ':' -f 5
+
+6.	Find all users whose user ID has three digits and starts with 23	Use /etc/passwd. Search for the requried entries and then display the fifth column only. Rely on the structure of the file and possibly also on the length of the usernames	
+Malinescu Elena-Greta
+Malinescu Elena-Ioana
+Malinescu Elena-Liliana
+Malinescu Elena-Monic
+
+REZOLVARE: cat passwd.fake | grep ':23.:'| awk -F :  '{print $5}'
+
+7.	Find all usersnames starting with "t" that logged on "pts/9"	Use the command "last". Search by the first and second fields, then extract just the first. Use the commands "sort" and "uniq" to display only distinct usernames	
+tmir1388
+toie1637
+toir1583
+
+REZOLVARE: cat last.fake | grep '^t' | grep 'pts/9' | awk '{print $1}' 
+
+8.	Find all the distinct usernames starting with "r" that are currently running programs, and display them duplicating every vowel	Use the command "ps -ef". Search for lines starting with "r" then use "sort" and "uniq" to remove duplicates. Search/replace the resutl duplicating every vowel	
+raarees
+roooot
+rpc
+rpcuuseer
+rtkiit
+
+
+REZOLVARE: cat ps.fake |awk '{print $1}'| grep '^r' | sort | uniq |sed -E 's/[aeiouAEIOU]/&&/g'   && inseamna elementul dat la replace de doua ori;
+
+9.	Display all the distinct lines left in /etc/passwd after deleting all letter and digits and spaces.	Search replace the required characters. User "sort" and "uniq" to display to distinct lines.	
+::::-:////://
+:::::////://
+
+REZOLVARE: cat passwd.fake |sed 's/[a-zA-Z0-9 ]//g' | sort | uniq
+
+10.	Display all the distinct lines left in /etc/passwd after deleting all characters except "r".	Search replace the required characters. User "sort" and "uniq" to display to distinct lines.	
+r
+rr
+rrr
+rrrr
+
+REZOLVARE: cat passwd.fake |sed  's/[^r]//g' | sort | uniq  [^r] INSEAMNA ORICE INAFARA DE r 
+	   cat passwd.fake |sed  's/[0-9a-qs-z: //-]//gi' | sort | uniq   NU STIU SA FAC AICI
+
+11.	Calculate the average of the PIDs of the processes currently running in the system.	Use command "ps -ef". Calculate the sum of the second field values and divede by the number of records	
+8373.95
+
+
+REZOLVARE: cat ps.fake |awk 'BEGIN{s=0;nr=0} {s=s+$2;nr+=1} END{ print s/nr }'
+	   cat ps.fake |awk 'BEGIN{s=0} {s=s+$2} END{ print s/NR }'

@@ -1,0 +1,20 @@
+#!/bin/bash
+
+if [ $# -ne 1  ]
+then
+	echo ""
+	exit 1
+fi
+
+
+
+N=$1
+
+for X in $(seq 1 $N)
+do
+
+	touch "file_$X.txt"
+	sed -n "$X,+5p" /etc/passwd > "file_$X.txt"  #sau ''$X',+5p'
+done
+
+### echo $? afiseaza pentru error cred si exit

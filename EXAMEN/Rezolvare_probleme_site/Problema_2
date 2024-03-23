@@ -1,0 +1,25 @@
+#!/bin/bash
+
+n=0
+
+	X=`find -type f -name "*.c"`
+	for x in $X 
+	do
+	if [ $(wc -l $x |cut -d' ' -f1 ) -gt 500 ]
+	then
+	((n++))
+	
+	
+	
+
+	echo "$x"
+
+
+	if [ $n == 2  ]
+	then
+		break
+	fi	
+	fi
+done
+	
+

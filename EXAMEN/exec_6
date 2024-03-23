@@ -1,0 +1,24 @@
+#!/bin/bash
+
+if [ $# -eq 0  ]
+then
+
+echo "Nu sunt destul argumente"
+exit 4
+
+fi
+
+read prim
+read secon
+
+for X in $*
+do
+
+	
+	
+	
+	sed "s/$prim/$secon/g" $X
+
+
+
+done

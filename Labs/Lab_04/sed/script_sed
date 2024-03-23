@@ -1,0 +1,5 @@
+#!/bin/sed
+1 i DATE DESPRE PERSONAL
+/49\$/d
+s/\([a-zA-Z]* \) \([a-zA-Z]* \)/\2 \1 /g
+$ a TERMINAT 

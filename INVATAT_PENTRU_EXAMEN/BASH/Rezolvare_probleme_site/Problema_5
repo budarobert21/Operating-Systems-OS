@@ -1,0 +1,22 @@
+#!/bin/bash
+
+if (( $# != 1  )); then
+	echo Eroare - introdu ceva;
+	exit 4;
+fi
+
+
+
+virus=$1;
+
+while true; do
+	for proces in `cat ps.fake.txt | tail -n +2 `; do
+		if (( `echo $proces | grep -E -c "./$virus"` == 1 ));then
+			pid=`echo $proces | awk '{print $1}'`;
+			echo $pid was killed;
+		kill -9 $pid;
+		fi
+
+	done
+	sleep 3;
+done

@@ -1,0 +1,32 @@
+#!/bin/bash -x
+
+if [ $# -eq 0  ];then
+	
+	echo "Nu exista argumente"
+	exit 4
+
+
+fi
+
+
+for X in $* 
+do
+	echo $X
+
+	if [ -f $X ] 
+	then
+	echo "ok"
+	echo $X `wc -m $X ` `wc -l $X ` 
+
+	elif [ -d $X ]
+	then
+		echo $X `find $X -d | wc -l`
+		echo "ok2"
+
+	fi
+
+
+
+
+
+done

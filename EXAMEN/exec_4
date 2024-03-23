@@ -1,0 +1,29 @@
+#/!/bin/bash
+
+if [ $# -eq 0  ];then
+
+
+
+	echo "Nu sunt destule argumente"
+	exit 1
+
+fi
+
+
+for X in `find $1 -type f`
+do
+
+	if cat $X | grep -Eq '[0-9]{5,}';then
+	
+			echo $(echo $X | sed 's@.*/@@')
+		fi
+
+	done
+
+
+
+
+
+
+
+

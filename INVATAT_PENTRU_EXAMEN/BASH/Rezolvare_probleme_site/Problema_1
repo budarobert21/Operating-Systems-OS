@@ -1,0 +1,21 @@
+#!/bin/bash
+
+for x in `cat who.fake.txt| grep -o -E "^[^ ]+ "`
+do
+	
+	n=0
+
+	#g=`cat $x | grep '^.[ ]'`
+	#cho $g
+	
+	
+		
+		n=$(( $n + $(cat who.fake.txt | grep "$x" | wc -l )))
+		
+
+	
+	
+	echo "$x $n"
+
+
+done

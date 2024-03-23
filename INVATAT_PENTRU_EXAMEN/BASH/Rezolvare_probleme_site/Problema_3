@@ -1,0 +1,16 @@
+#!/bin/bash
+
+
+X=`find dir/ -type f -name "*.log"  `
+
+for x in $X
+do
+	echo $x
+	$(sort $x > $x)
+	
+	 
+	
+
+done
+
+#de terminat

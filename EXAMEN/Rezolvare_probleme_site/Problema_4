@@ -1,0 +1,11 @@
+#!/bin/bash
+
+
+for x in `find dir/ -type l  `
+do
+	echo $x
+	if [ ! -e $x ];then
+		echo "$x nu este"
+	fi
+
+done

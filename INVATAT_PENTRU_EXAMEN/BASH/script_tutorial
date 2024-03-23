@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# $0  $1  $2 ... $9 argumente de la 1 ...9   $# nr argumentelor
+
+# if [ $#  ]
+
+
+for file in $1
+do
+
+	echo $file
+
+done 
+
+

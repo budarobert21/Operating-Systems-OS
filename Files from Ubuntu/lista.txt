@@ -1,0 +1,14 @@
+total 216
+drwxr-x--- 1 robert robert    512 Mar 12 19:39 c-test-practice
+-rw-r--r-- 1 robert robert   3066 Feb 26 16:47 c-test-practice.zip
+-rw-r--r-- 1 robert robert    216 Mar 12 23:05 direct_script.sh
+-rw-r--r-- 1 robert robert 188735 Mar 12 21:01 directoare.txt
+-rw-r--r-- 1 robert robert  14008 Mar 12 22:56 directoare2.txt
+-rw-r--r-- 1 robert robert    907 Mar 24 14:18 enunturi.txt
+-rw-r--r-- 1 robert robert   1504 Mar 24 14:18 enunturi.txt:Zone.Identifier
+-rw-r--r-- 1 robert robert      0 Mar 10 22:11 exemplu.c
+-rw-r--r-- 1 robert robert     94 Mar 12 18:43 fib.sh
+-rw-r--r-- 1 robert robert      0 Mar 12 18:06 fibo.bash
+-rw-r--r-- 1 robert robert      0 Mar 24 15:00 lista.txt
+-rw-r--r-- 1 robert robert      3 Mar 12 23:05 numere.txt
+-rw-r--r-- 1 robert robert     55 Mar 10 21:40 text.txt

@@ -1,0 +1,29 @@
+#!/bin/bash 
+
+
+if [ $# -eq 0  ];then
+
+	echo "argumente insuficiente"
+	exit 1
+fi
+
+NR_MED=0
+NR_ACT=0
+
+for X in `ls $1`
+do
+	
+	#if ( file $X | grep -n 'ASCII text' );then  #preia ca si comanda e super
+		if [[ $(file $X | grep -n "ASCII text")  ]];then # sau asa este corect 
+
+
+	NR_ACT=$(( $NR_ACT + `wc -l $X | cut -d' ' -f1 `))
+	((NR_MED++))
+
+
+fi
+
+done
+
+echo "$NR_ACT/$NR_MED"
+echo $(($NR_ACT/$NR_MED))
